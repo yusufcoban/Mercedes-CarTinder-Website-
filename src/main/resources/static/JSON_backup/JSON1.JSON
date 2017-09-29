@@ -1,0 +1,1999 @@
+[
+  {
+    "series": "GLE",
+    "model": "292373",
+    "modelImageUrl": "http://europe.starconnect-ce.i.daimler.com/iris/iris?COSY-EU-100-1713d0VXq0heqtyO35PobzIvxXrItvsTQKkojUfGoo7GE11KFm9nRi9Q6FjcBXBr1XGEjnmJ0leOrOB2Kr1bApvAVI5uO42QC3bhOkzNImNm7jgOIhKVBSE%25vqAr9yLR5QyYaxCk8rH1zgdn8wPOnoiZeigM4FsQkTSMrp32aJm7jaSthym9uv%25YhHt9yLRAG6Yaxv0hrH1LCtn8waQ2oiZ4bIM4Fg4rTg9Pzn6PKNCZnX2f3SNst2Hx9DkSW9wUUEVXqdYWqtyRV3H3k9kBF7v0wAFslUWojU0sGm&&IMGT=A24&POV=BE040,PZR",
+    "equipments": [
+      "urn:vdf:eeid:s-294",
+      "urn:vdf:eeid:e-s36",
+      "urn:vdf:eeid::s-u01:fondgurt-statusanzeige%20im%20kombiinstrument",
+      "urn:vdf:eeid:e-n10",
+      "urn:vdf:eeid::s-b59:dynamic%20select",
+      "urn:vdf:eeid::s-876:ambientebeleuchtung",
+      "urn:vdf:eeid:e-q79",
+      "urn:vdf:eeid::s-u60:fu%c3%9fg%c3%a4ngerschutz",
+      "urn:vdf:eeid:e-m70",
+      "urn:vdf:eeid:e-d59",
+      "urn:vdf:eeid:e-m74",
+      "urn:vdf:eeid:s-723",
+      "urn:vdf:eeid::s-440:tempomat",
+      "urn:vdf:eeid:s-560",
+      "urn:vdf:eeid:e-d52",
+      "urn:vdf:eeid:e-d53",
+      "urn:vdf:eeid:s-286",
+      "urn:vdf:eeid::s-580:klimatisierungsautomatik%20thermatic",
+      "urn:vdf:eeid::s-351:mercedes-benz%20notrufsystem",
+      "urn:vdf:eeid:s-b03",
+      "urn:vdf:eeid::s-724:vorr%c3%bcstung%20f%c3%bcr%20dachtr%c3%a4gersysteme",
+      "urn:vdf:eeid:e-q01",
+      "urn:vdf:eeid:e-d68",
+      "urn:vdf:eeid:s-215",
+      "urn:vdf:eeid:s-218",
+      "urn:vdf:eeid:s-057",
+      "urn:vdf:eeid:s-299",
+      "urn:vdf:eeid:e-d60",
+      "urn:vdf:eeid::s-421:9g-tronic",
+      "urn:vdf:eeid::s-475:reifendruckkontrolle",
+      "urn:vdf:eeid::s-k11:adaptives%20bremslicht",
+      "urn:vdf:eeid:e-m98",
+      "urn:vdf:eeid::s-573:isofix%20child%20seat%20attachment%20points",
+      "urn:vdf:eeid:e-f33",
+      "urn:vdf:eeid:e-g56",
+      "urn:vdf:eeid::s-214:adaptives%20d%c3%a4mpfungs-system%20ads%20plus",
+      "urn:vdf:eeid:e-g50",
+      "urn:vdf:eeid:e-l08",
+      "urn:vdf:eeid:e-q29",
+      "urn:vdf:eeid:s-70b",
+      "urn:vdf:eeid::s-628:adaptiver%20fernlicht-assistent%20plus",
+      "urn:vdf:eeid:s-h21",
+      "urn:vdf:eeid:e-n42",
+      "urn:vdf:eeid:e-l06",
+      "urn:vdf:eeid:i-p31",
+      "urn:vdf:eeid::s-258:aktiver%20brems-assistent",
+      "urn:vdf:eeid::s-818:cd-player",
+      "urn:vdf:eeid::s-290:windowbags",
+      "urn:vdf:eeid:e-q31",
+      "urn:vdf:eeid:s-807",
+      "urn:vdf:eeid:e-s77",
+      "urn:vdf:eeid:s-u08",
+      "urn:vdf:eeid:e-d14",
+      "urn:vdf:eeid:e-d15",
+      "urn:vdf:eeid:e-d18",
+      "urn:vdf:eeid:l-775",
+      "urn:vdf:eeid:s-400",
+      "urn:vdf:eeid::i-p22:exclusive%20interior",
+      "urn:vdf:eeid::s-533:lautsprecher",
+      "urn:vdf:eeid:e-s08",
+      "urn:vdf:eeid::s-684:amg%20lmr%204fach%205-doppelspeichen-design%2c%2053%2c3%20cm%20%2821%27%27%29",
+      "urn:vdf:eeid:s-538",
+      "urn:vdf:eeid::s-890:easy-pack%20tailgate",
+      "urn:vdf:eeid:e-d24",
+      "urn:vdf:eeid:s-51u",
+      "urn:vdf:eeid:s-u12",
+      "urn:vdf:eeid:e-n63",
+      "urn:vdf:eeid:e-j67",
+      "urn:vdf:eeid:s-u10",
+      "urn:vdf:eeid::s-212:elektronisches%20traktions-system%204ets",
+      "urn:vdf:eeid:s-772",
+      "urn:vdf:eeid::s-915:kraftstoffbeh%c3%a4lter%2093%20l",
+      "urn:vdf:eeid:s-470",
+      "urn:vdf:eeid:s-b18",
+      "urn:vdf:eeid::s-160:bremsassistent%20bas",
+      "urn:vdf:eeid:s-b16",
+      "urn:vdf:eeid::s-u35:12%20v%20-%20socket",
+      "urn:vdf:eeid:e-q56",
+      "urn:vdf:eeid:s-505",
+      "urn:vdf:eeid::p-224:leder%20sattelbraun%2fschwarz",
+      "urn:vdf:eeid::s-642:led%20intelligent%20light%20system",
+      "urn:vdf:eeid:e-s09",
+      "urn:vdf:eeid::s-280:multifunction%20steering%20wheel%20in%20black%20leather%2c%203-spoke%20design",
+      "urn:vdf:eeid::s-873:sitzheizung%20f%c3%bcr%20fahrer%20und%20beifahrer",
+      "urn:vdf:eeid::s-u22:4-wege-lordosenverstellung",
+      "urn:vdf:eeid::s-840:w%c3%a4rmed%c3%a4mmendes%20glas%20dunkel%20get%c3%b6nt",
+      "urn:vdf:eeid:s-345",
+      "urn:vdf:eeid:e-g91",
+      "urn:vdf:eeid:s-481",
+      "urn:vdf:eeid:s-360",
+      "urn:vdf:eeid::s-213:sport-direktlenkung",
+      "urn:vdf:eeid::s-u09:verkleidung%20in%20ledernachbildung%20artico%20mit%20ziern%c3%a4hten",
+      "urn:vdf:eeid:e-n03",
+      "urn:vdf:eeid:e-d46",
+      "urn:vdf:eeid:e-f88",
+      "urn:vdf:eeid:e-d47",
+      "urn:vdf:eeid:e-d48",
+      "urn:vdf:eeid::s-489:airmatic%20package",
+      "urn:vdf:eeid:e-f80",
+      "urn:vdf:eeid:s-p55",
+      "urn:vdf:eeid:e-d40",
+      "urn:vdf:eeid:s-472",
+      "urn:vdf:eeid:s-471",
+      "urn:vdf:eeid:e-d43"
+    ],
+    "segment": "Large",
+    "positioningText": "Die Präsenz eines SUV. Die Agilität und Eleganz eines Coupés: das GLE Coupé.",
+    "codeSet": "de_DE__292373_000__E-D14_E-D15_E-D18_E-D24_E-D40_E-D43_E-D46_E-D47_E-D48_E-D52_E-D53_E-D59_E-D60_E-D68_E-F33_E-F80_E-F88_E-G50_E-G56_E-G91_E-J67_E-L06_E-L08_E-M70_E-M74_E-M98_E-N03_E-N10_E-N42_E-N63_E-Q01_E-Q29_E-Q31_E-Q56_E-Q79_E-S08_E-S09_E-S36_E-S77_I-P22_I-P31_L-775_P-224_S-057_S-160_S-212_S-213_S-214_S-215_S-218_S-258_S-280_S-286_S-290_S-294_S-299_S-345_S-351_S-360_S-400_S-421_S-440_S-470_S-471_S-472_S-475_S-481_S-489_S-505_S-51U_S-533_S-538_S-560_S-573_S-580_S-628_S-642_S-684_S-70B_S-723_S-724_S-772_S-807_S-818_S-840_S-873_S-876_S-890_S-915_S-B03_S-B16_S-B18_S-B59_S-H21_S-K11_S-P55_S-U01_S-U08_S-U09_S-U10_S-U12_S-U22_S-U35_S-U60",
+    "conceptValueRatings": {
+      "autonom": 0.35714285714285715,
+      "innovativ": 0.25,
+      "kompakt": 0.2778720695873555,
+      "sportlich": 0.24487911349899258,
+      "gelaende": 0.6521739130434783,
+      "eleganz": 0.8428571428571429,
+      "manuell": 0,
+      "stauraum": 0.49999999999999983,
+      "sicherheit": 0.5219298245614039,
+      "rundumSicht": 0.5,
+      "geraeumig": 0.45,
+      "puristisch": 0.4666666666666667,
+      "luxus": 0.9333333333333332,
+      "traditionell": 0.5,
+      "sportlichesDesign": 0.13551401869158877,
+      "innenraumLuxus": 0.15517241379310345,
+      "extravaganz": 0.10666666666666667,
+      "offenFahren": 0,
+      "effizient": 0.12275818552805745
+    },
+    "label": "GLE Coupé",
+    "technicalValues": {
+      "fuelConsumptionExtraUrbanCycleMaxLiter": 8.8,
+      "rearAxleLoadAtKerbWeightEu": 1600,
+      "efficiencyClass": "E",
+      "co2EmissionMin": 246,
+      "maximumTorque": 700,
+      "permTrailerLoadUnbraked": 750,
+      "acceleration": 4.9,
+      "noOfCylinders": 8,
+      "dragCoefficient": 0.35,
+      "hcEmission": 47,
+      "vehicleWidthIncExteriorMirrors": 2129,
+      "wheelType": "275/50 R 20",
+      "permTrailerLoadBrakedUpTo12_25": 0,
+      "frontAxleLoadAtKerbWeightEu": 1450,
+      "fuelConsumptionUrbanCycleMaxLiter": 14.6,
+      "fuelConsumptionCombinedMaxLiter": 10.9,
+      "fuelConsumptionUrbanCycleLiter": 14.2,
+      "co2EmissionMax": 254,
+      "fuelTankReserveLiter": 12,
+      "fuelTankCapacityLiter": 93,
+      "turningCircleDiameter": 11.8,
+      "eudcFuelConsumtionLiter": 8.6,
+      "permRoofLoad": 75,
+      "payloadEu": 630,
+      "ratedOutputHp": 455,
+      "fuelType": "S",
+      "transmissionType": "9G-TRONIC",
+      "fuelTypePrimary": "S",
+      "vehicleLength": 4900,
+      "combustionProcess": 2,
+      "permGrossVehicleWeight": 2900,
+      "combinedFuelConsumtionLiter": 10.7,
+      "fuelConsumptionExtraUrbanCycleLiter": 8.4,
+      "vehicleHeightReadyToDrive": 1719,
+      "rearTyreDesignation": "275/50 R 20",
+      "ratedOutputKw": 335,
+      "noOfDoorsIncTailgate": 5,
+      "maximumSpeed": 250,
+      "displacement": 4663,
+      "seats": 5,
+      "fuelConsumptionCombinedLiter": 10.5,
+      "yearlyCostEur": 0,
+      "smk": 2270,
+      "driveConcept": 10,
+      "co2Emission": "Euro 6",
+      "cityFuelConsumtionLiter": 14.4,
+      "kerbWeightEu": 2270,
+      "generalColor": "Silber",
+      "color": "iridium silver metallic",
+      "wheelBase": 2915,
+      "emissionStandard": 251
+    },
+    "typeClass": "C292",
+    "highlight": {
+      "equipmentCode": "S-P55",
+      "label": "Night-Paket"
+    },
+    "bodyType": "Coupé",
+    "conceptValueExplanations": {
+      "autonom": {
+        "equipmentCodes": [
+          "S-628",
+          "S-489",
+          "S-160",
+          "E-M70"
+        ],
+        "techValues": {}
+      },
+      "innovativ": {
+        "equipmentCodes": [
+          "S-628",
+          "S-U60",
+          "S-160",
+          "E-L06",
+          "E-M70",
+          "S-360"
+        ],
+        "techValues": {}
+      },
+      "kompakt": {
+        "equipmentCodes": [],
+        "techValues": {
+          "vehicleWidthIncExteriorMirrors": "2129",
+          "vehicleLength": "4900.0",
+          "typeClass": "C292"
+        }
+      },
+      "sportlich": {
+        "equipmentCodes": [
+          "S-489"
+        ],
+        "techValues": {
+          "dragCoefficient": "0.35",
+          "maximumSpeed": "250",
+          "ratedOutputHp": "455",
+          "acceleration": "4.9",
+          "ratedOutputKw": "335"
+        }
+      },
+      "gelaende": {
+        "equipmentCodes": [
+          "E-M98"
+        ],
+        "techValues": {}
+      },
+      "eleganz": {
+        "equipmentCodes": [
+          "E-L08",
+          "E-D47",
+          "E-Q29",
+          "S-280",
+          "S-H21",
+          "S-U09",
+          "S-U08",
+          "P-224"
+        ],
+        "techValues": {
+          "typeClass": "C292"
+        }
+      },
+      "manuell": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "stauraum": {
+        "equipmentCodes": [
+          "E-F88",
+          "E-J67",
+          "S-B18",
+          "S-890",
+          "E-Q31",
+          "E-Q01",
+          "S-286",
+          "S-724"
+        ],
+        "techValues": {
+          "payloadEu": "630",
+          "typeClass": "C292"
+        }
+      },
+      "sicherheit": {
+        "equipmentCodes": [
+          "E-D53",
+          "S-K11",
+          "S-628",
+          "S-489",
+          "S-U60",
+          "S-470",
+          "S-471",
+          "S-538",
+          "S-U10",
+          "S-160",
+          "S-258",
+          "E-M70",
+          "S-472",
+          "S-212",
+          "S-U01",
+          "S-573",
+          "E-F33",
+          "E-D52",
+          "S-294",
+          "S-213",
+          "E-S77",
+          "S-642",
+          "S-299",
+          "S-475",
+          "S-218",
+          "S-345",
+          "E-D14",
+          "S-P55",
+          "E-N63",
+          "E-S36",
+          "E-S09",
+          "E-D46",
+          "S-290",
+          "E-D59",
+          "E-D43",
+          "E-D68",
+          "S-723",
+          "S-724",
+          "E-D15",
+          "S-70B",
+          "E-S08"
+        ],
+        "techValues": {}
+      },
+      "rundumSicht": {
+        "equipmentCodes": [
+          "S-218",
+          "S-P55"
+        ],
+        "techValues": {
+          "typeClass": "C292"
+        }
+      },
+      "geraeumig": {
+        "equipmentCodes": [],
+        "techValues": {
+          "permRoofLoad": "75",
+          "payloadEu": "630",
+          "seats": "5",
+          "typeClass": "C292",
+          "noOfDoorsIncTailgate": "5"
+        }
+      },
+      "puristisch": {
+        "equipmentCodes": [
+          "S-505",
+          "S-818",
+          "S-533",
+          "E-D60",
+          "S-51U",
+          "E-D24"
+        ],
+        "techValues": {}
+      },
+      "luxus": {
+        "equipmentCodes": [
+          "S-214",
+          "S-215"
+        ],
+        "techValues": {
+          "typeClass": "C292"
+        }
+      },
+      "traditionell": {
+        "equipmentCodes": [
+          "S-U12",
+          "E-D18"
+        ],
+        "techValues": {}
+      },
+      "sportlichesDesign": {
+        "equipmentCodes": [
+          "I-P31",
+          "S-772",
+          "S-B16"
+        ],
+        "techValues": {
+          "typeClass": "C292"
+        }
+      },
+      "innenraumLuxus": {
+        "equipmentCodes": [
+          "I-P22"
+        ],
+        "techValues": {
+          "typeClass": "C292"
+        }
+      },
+      "extravaganz": {
+        "equipmentCodes": [],
+        "techValues": {
+          "typeClass": "C292"
+        }
+      },
+      "offenFahren": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "effizient": {
+        "equipmentCodes": [
+          "S-B03",
+          "E-G50",
+          "E-F33",
+          "S-915"
+        ],
+        "techValues": {
+          "fuelConsumptionExtraUrbanCycleMaxLiter": "8.8",
+          "hcEmission": "47",
+          "fuelConsumptionUrbanCycleLiter": "14.2",
+          "fuelConsumptionCombinedMaxLiter": "10.9",
+          "combinedFuelConsumtionLiter": "10.7",
+          "emissionStandard": "251",
+          "co2EmissionMin": "246",
+          "fuelConsumptionExtraUrbanCycleLiter": "8.4",
+          "cityFuelConsumtionLiter": "14.4",
+          "fuelConsumptionCombinedLiter": "10.5",
+          "fuelConsumptionUrbanCycleMaxLiter": "14.6",
+          "eudcFuelConsumtionLiter": "8.6"
+        }
+      }
+    },
+    "esScore": 0.7120834
+  },
+  {
+    "series": "SLC",
+    "model": "172434",
+    "modelImageUrl": "http://europe.starconnect-ce.i.daimler.com/iris/iris?COSY-EU-100-1713d0VXqbYFqtyO35PobzIvxXrItvsTQKkojUfGoo7GE11KFm9ehP9Q6FjcBXBr1XGEjnmJ0le0xOB2Kr1bApvIRI5uO4xQC3is7kzNGTdm7j0OmhKV3XQ%25vq8cXyr%25kWfDCTJ0lCrnOIJRdAbQOznyI5ug6FQC3DX1kze94pOy1qFm9eR1Yh4NTmj32vvRWydVXjdhcfWF0FT3THuPsa28uKxvjbDvaKL6&&IMGT=A24&POV=BE040,PZR",
+    "equipments": [
+      "urn:vdf:eeid::s-b16:abgasanlage%202-flutig",
+      "urn:vdf:eeid:s-r70",
+      "urn:vdf:eeid::s-620:halogen%20headlamps%20including%20integral%20led%20daytime%20running%20lamps",
+      "urn:vdf:eeid::s-258:aktiver%20brems-assistent",
+      "urn:vdf:eeid:e-d19",
+      "urn:vdf:eeid:e-q31",
+      "urn:vdf:eeid:e-l14",
+      "urn:vdf:eeid:s-807",
+      "urn:vdf:eeid:e-f97",
+      "urn:vdf:eeid:e-f54",
+      "urn:vdf:eeid:s-l5c",
+      "urn:vdf:eeid:e-d58",
+      "urn:vdf:eeid::s-u60:aktive%20motorhaube",
+      "urn:vdf:eeid:e-d59",
+      "urn:vdf:eeid:e-d15",
+      "urn:vdf:eeid:e-j53",
+      "urn:vdf:eeid:e-d18",
+      "urn:vdf:eeid::s-440:tempomat",
+      "urn:vdf:eeid:s-486",
+      "urn:vdf:eeid:e-d53",
+      "urn:vdf:eeid:e-d98",
+      "urn:vdf:eeid:e-d54",
+      "urn:vdf:eeid:s-580",
+      "urn:vdf:eeid::s-91u:innenhimmel%20schwarz",
+      "urn:vdf:eeid:e-s05",
+      "urn:vdf:eeid::s-351:mercedes-benz%20notrufsystem",
+      "urn:vdf:eeid:e-s08",
+      "urn:vdf:eeid:s-b03",
+      "urn:vdf:eeid:e-g06",
+      "urn:vdf:eeid:s-818",
+      "urn:vdf:eeid:e-m04",
+      "urn:vdf:eeid:e-q01",
+      "urn:vdf:eeid:e-m05",
+      "urn:vdf:eeid:e-m06",
+      "urn:vdf:eeid:s-538",
+      "urn:vdf:eeid:e-d68",
+      "urn:vdf:eeid:e-d24",
+      "urn:vdf:eeid:e-n62",
+      "urn:vdf:eeid:e-j67",
+      "urn:vdf:eeid::s-415:panorama-variodach",
+      "urn:vdf:eeid:s-u10",
+      "urn:vdf:eeid:s-057",
+      "urn:vdf:eeid:e-d60",
+      "urn:vdf:eeid:e-d64",
+      "urn:vdf:eeid::s-244:sportsitze",
+      "urn:vdf:eeid:e-t77",
+      "urn:vdf:eeid:e-q14",
+      "urn:vdf:eeid::s-475:reifendruckkontrolle",
+      "urn:vdf:eeid::s-k11:adaptives%20bremslicht",
+      "urn:vdf:eeid::s-161:sitzbelegungserkennung",
+      "urn:vdf:eeid::s-292:sidebags",
+      "urn:vdf:eeid:e-j39",
+      "urn:vdf:eeid:e-q56",
+      "urn:vdf:eeid:e-f32",
+      "urn:vdf:eeid:s-505",
+      "urn:vdf:eeid:e-o90",
+      "urn:vdf:eeid:e-g56",
+      "urn:vdf:eeid:s-425",
+      "urn:vdf:eeid:e-a18",
+      "urn:vdf:eeid:e-s09",
+      "urn:vdf:eeid::s-873:sitzheizung%20f%c3%bcr%20fahrer%20und%20beifahrer",
+      "urn:vdf:eeid:e-d71",
+      "urn:vdf:eeid:l-197",
+      "urn:vdf:eeid:e-l08",
+      "urn:vdf:eeid:s-360",
+      "urn:vdf:eeid::p-531:leder%20exklusiv%20nappa%20schwarz",
+      "urn:vdf:eeid:s-70b",
+      "urn:vdf:eeid:e-n42",
+      "urn:vdf:eeid::s-280:schalthebel%20in%20leder%20nappa",
+      "urn:vdf:eeid:e-l03",
+      "urn:vdf:eeid:e-l04",
+      "urn:vdf:eeid:e-l05",
+      "urn:vdf:eeid:e-q22",
+      "urn:vdf:eeid:e-j07",
+      "urn:vdf:eeid:e-j08",
+      "urn:vdf:eeid:e-l07",
+      "urn:vdf:eeid::s-736:zierelemente%20holz%20esche%20schwarz%20gl%c3%a4nzend",
+      "urn:vdf:eeid:e-d46",
+      "urn:vdf:eeid:s-952",
+      "urn:vdf:eeid:e-i67"
+    ],
+    "positioningText": "Der SLC: Purer Fahrspaß entwickelt sich aus einer unübertroffenen Kombination von Sportlichkeit und Komfort.",
+    "codeSet": "de_DE__172434_001__E-A18_E-D15_E-D18_E-D19_E-D24_E-D46_E-D53_E-D54_E-D58_E-D59_E-D60_E-D64_E-D68_E-D71_E-D98_E-F32_E-F54_E-F97_E-G06_E-G56_E-I67_E-J07_E-J08_E-J39_E-J53_E-J67_E-L03_E-L04_E-L05_E-L07_E-L08_E-L14_E-M04_E-M05_E-M06_E-N42_E-N62_E-O90_E-Q01_E-Q14_E-Q22_E-Q31_E-Q56_E-S05_E-S08_E-S09_E-T77_L-197_P-531_S-057_S-161_S-244_S-258_S-280_S-292_S-351_S-360_S-415_S-425_S-440_S-475_S-486_S-505_S-538_S-580_S-620_S-70B_S-736_S-807_S-818_S-873_S-91U_S-952_S-B03_S-B16_S-K11_S-L5C_S-R70_S-U10_S-U60",
+    "conceptValueRatings": {
+      "autonom": 0,
+      "innovativ": 0.03571428571428571,
+      "kompakt": 0.57844489233054,
+      "sportlich": 0.31623572867696437,
+      "gelaende": 0,
+      "eleganz": 0.7714285714285715,
+      "manuell": 0,
+      "stauraum": 0.043478260869565244,
+      "sicherheit": 0.1184210526315793,
+      "rundumSicht": 0.07894736842105263,
+      "geraeumig": 0.025,
+      "puristisch": 0.26666666666666666,
+      "luxus": 0.19999999999999998,
+      "traditionell": 0.75,
+      "sportlichesDesign": 0.22897196261682237,
+      "innenraumLuxus": 0.13793103448275862,
+      "extravaganz": 0.26666666666666666,
+      "offenFahren": 0.5555555555555556,
+      "effizient": 0.5070500363096005
+    },
+    "label": "SLC Roadster",
+    "technicalValues": {
+      "fuelConsumptionExtraUrbanCycleMaxLiter": 5.2,
+      "rearAxleLoadAtKerbWeightEu": 955,
+      "efficiencyClass": "C",
+      "co2EmissionMin": 133,
+      "maximumTorque": 300,
+      "permTrailerLoadUnbraked": 0,
+      "acceleration": 6.9,
+      "noOfCylinders": 4,
+      "dragCoefficient": 0.3,
+      "hcEmission": 20,
+      "vehicleWidthIncExteriorMirrors": 2006,
+      "wheelType": "205/55 R 16 91 V",
+      "permTrailerLoadBrakedUpTo12_25": 0,
+      "frontAxleLoadAtKerbWeightEu": 885,
+      "fuelConsumptionUrbanCycleMaxLiter": 7.9,
+      "fuelConsumptionCombinedMaxLiter": 6.1,
+      "fuelConsumptionUrbanCycleLiter": 7.5,
+      "co2EmissionMax": 143,
+      "fuelTankReserveLiter": 8,
+      "fuelTankCapacityLiter": 60,
+      "turningCircleDiameter": 10.52,
+      "eudcFuelConsumtionLiter": 5.2,
+      "permRoofLoad": 0,
+      "payloadEu": 315,
+      "ratedOutputHp": 184,
+      "fuelType": "S",
+      "transmissionType": "9G-TRONIC",
+      "fuelTypePrimary": "S",
+      "vehicleLength": 4133,
+      "combustionProcess": 1,
+      "permGrossVehicleWeight": 1770,
+      "combinedFuelConsumtionLiter": 6.5,
+      "fuelConsumptionExtraUrbanCycleLiter": 4.7,
+      "vehicleHeightReadyToDrive": 1301,
+      "rearTyreDesignation": "205/55 R 16 91 V",
+      "ratedOutputKw": 135,
+      "noOfDoorsIncTailgate": 2,
+      "maximumSpeed": 237,
+      "displacement": 1991,
+      "seats": 2,
+      "fuelConsumptionCombinedLiter": 5.7,
+      "yearlyCostEur": 0,
+      "smk": 1470,
+      "driveConcept": 10,
+      "co2Emission": "Euro 6",
+      "cityFuelConsumtionLiter": 8.6,
+      "kerbWeightEu": 1455,
+      "generalColor": "Schwarz",
+      "color": "obsidian black metallic",
+      "wheelBase": 2430,
+      "emissionStandard": 150
+    },
+    "typeClass": "R172",
+    "highlight": {
+      "equipmentCode": "S-952",
+      "label": "Sport-Paket"
+    },
+    "bodyType": "Roadster",
+    "conceptValueExplanations": {
+      "autonom": {
+        "equipmentCodes": [
+          "E-L04"
+        ],
+        "techValues": {}
+      },
+      "innovativ": {
+        "equipmentCodes": [
+          "S-U60",
+          "E-L04",
+          "S-360"
+        ],
+        "techValues": {}
+      },
+      "kompakt": {
+        "equipmentCodes": [],
+        "techValues": {
+          "vehicleWidthIncExteriorMirrors": "2006",
+          "vehicleLength": "4133.0",
+          "typeClass": "R172"
+        }
+      },
+      "sportlich": {
+        "equipmentCodes": [
+          "S-244",
+          "S-486"
+        ],
+        "techValues": {
+          "dragCoefficient": "0.3",
+          "maximumSpeed": "237",
+          "ratedOutputHp": "184",
+          "acceleration": "6.9",
+          "ratedOutputKw": "135"
+        }
+      },
+      "gelaende": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "eleganz": {
+        "equipmentCodes": [
+          "E-L08",
+          "S-L5C",
+          "P-531",
+          "S-280",
+          "S-736",
+          "E-A18"
+        ],
+        "techValues": {
+          "typeClass": "R172"
+        }
+      },
+      "manuell": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "stauraum": {
+        "equipmentCodes": [
+          "E-J67",
+          "E-J07",
+          "E-Q31",
+          "E-Q01"
+        ],
+        "techValues": {
+          "payloadEu": "315",
+          "typeClass": "R172"
+        }
+      },
+      "sicherheit": {
+        "equipmentCodes": [
+          "E-D53",
+          "S-K11",
+          "S-U60",
+          "E-L05",
+          "E-O90",
+          "S-538",
+          "E-S05",
+          "S-U10",
+          "S-161",
+          "E-L04",
+          "E-J53",
+          "S-258",
+          "E-M06",
+          "E-G06",
+          "E-D71",
+          "E-D64",
+          "S-475",
+          "E-L03",
+          "E-F32",
+          "S-292",
+          "E-S09",
+          "E-D46",
+          "E-D59",
+          "E-D68",
+          "E-D54",
+          "E-D15",
+          "S-70B",
+          "E-S08"
+        ],
+        "techValues": {}
+      },
+      "rundumSicht": {
+        "equipmentCodes": [],
+        "techValues": {
+          "typeClass": "R172"
+        }
+      },
+      "geraeumig": {
+        "equipmentCodes": [],
+        "techValues": {
+          "payloadEu": "315",
+          "seats": "2",
+          "typeClass": "R172",
+          "noOfDoorsIncTailgate": "2"
+        }
+      },
+      "puristisch": {
+        "equipmentCodes": [
+          "S-505",
+          "S-818",
+          "E-D60",
+          "E-D24"
+        ],
+        "techValues": {}
+      },
+      "luxus": {
+        "equipmentCodes": [],
+        "techValues": {
+          "typeClass": "R172"
+        }
+      },
+      "traditionell": {
+        "equipmentCodes": [
+          "E-M05",
+          "E-D18",
+          "E-L14"
+        ],
+        "techValues": {}
+      },
+      "sportlichesDesign": {
+        "equipmentCodes": [
+          "S-L5C",
+          "E-Q14",
+          "E-D19",
+          "S-244",
+          "S-B16"
+        ],
+        "techValues": {
+          "typeClass": "R172"
+        }
+      },
+      "innenraumLuxus": {
+        "equipmentCodes": [
+          "S-415"
+        ],
+        "techValues": {
+          "typeClass": "R172"
+        }
+      },
+      "extravaganz": {
+        "equipmentCodes": [
+          "S-91U",
+          "E-N62"
+        ],
+        "techValues": {
+          "typeClass": "R172"
+        }
+      },
+      "offenFahren": {
+        "equipmentCodes": [
+          "S-415"
+        ],
+        "techValues": {}
+      },
+      "effizient": {
+        "equipmentCodes": [
+          "S-B03",
+          "E-T77"
+        ],
+        "techValues": {
+          "fuelConsumptionExtraUrbanCycleMaxLiter": "5.2",
+          "hcEmission": "20",
+          "fuelConsumptionUrbanCycleLiter": "7.5",
+          "fuelConsumptionCombinedMaxLiter": "6.1",
+          "combinedFuelConsumtionLiter": "6.5",
+          "emissionStandard": "150",
+          "co2EmissionMin": "133",
+          "fuelConsumptionExtraUrbanCycleLiter": "4.7",
+          "cityFuelConsumtionLiter": "8.6",
+          "fuelConsumptionCombinedLiter": "5.7",
+          "fuelConsumptionUrbanCycleMaxLiter": "7.9",
+          "eudcFuelConsumtionLiter": "5.2"
+        }
+      }
+    },
+    "esScore": 0.6308958
+  },
+  {
+    "series": "GLS",
+    "model": "166873",
+    "modelImageUrl": "http://europe.starconnect-ce.i.daimler.com/iris/iris?COSY-EU-100-1713d0VXq0SFqtyO35PobzIvxXrItvsTQKkojUfGoo7GE11KFm9mWa9Q6FjcBXBr1XGEuGRJ0l34xOB2NQcbApjIRI5ux6YQC31vTkzNBzNm7jAhShKViSW%25vq4vZyLRgY6Yax%25ohrH1GBrn8w7O3oiZK%25YM4FvyMTg9L6k6PDaGpSeWH0Stsd9JGcUfA%25cXGE5YrJbXSqxVPmn8wPbIoTnlR4M6oeIrTg9vQk6PDVLmSeWsm9tsdUvTcUaqKDTb32VXqa8cOZdf%25XEd9BBpxb1loE1JnwxV4V%25d%25CWLH59zW0uBE6RB50Ay&&IMGT=A24&POV=BE040,PZR",
+    "equipments": [
+      "urn:vdf:eeid::s-723:easy-pack%20laderaumabdeckung",
+      "urn:vdf:eeid:e-s36",
+      "urn:vdf:eeid::s-235:park-pilot",
+      "urn:vdf:eeid:e-n10",
+      "urn:vdf:eeid::s-b59:dynamic%20select",
+      "urn:vdf:eeid::s-u60:fu%c3%9fg%c3%a4ngerschutz",
+      "urn:vdf:eeid:e-d59",
+      "urn:vdf:eeid:e-m74",
+      "urn:vdf:eeid::s-440:tempomat",
+      "urn:vdf:eeid:e-d52",
+      "urn:vdf:eeid:e-d53",
+      "urn:vdf:eeid:s-286",
+      "urn:vdf:eeid::s-351:mercedes-benz%20notrufsystem",
+      "urn:vdf:eeid:s-b03",
+      "urn:vdf:eeid:e-q01",
+      "urn:vdf:eeid:s-057",
+      "urn:vdf:eeid:s-299",
+      "urn:vdf:eeid::s-421:9g-tronic",
+      "urn:vdf:eeid::s-475:reifendruckkontrolle",
+      "urn:vdf:eeid::s-242:vordersitze%20elektrisch%20einstellbar%20mit%20memory-funktion",
+      "urn:vdf:eeid::s-k11:adaptives%20bremslicht",
+      "urn:vdf:eeid:e-m98",
+      "urn:vdf:eeid:e-m99",
+      "urn:vdf:eeid:e-n34",
+      "urn:vdf:eeid:l-040",
+      "urn:vdf:eeid::s-573:isofix%20child%20seat%20attachment%20points",
+      "urn:vdf:eeid:s-946",
+      "urn:vdf:eeid:e-f32",
+      "urn:vdf:eeid:e-g56",
+      "urn:vdf:eeid:e-g50",
+      "urn:vdf:eeid:e-l08",
+      "urn:vdf:eeid:e-q29",
+      "urn:vdf:eeid::s-280:multifunktionslenkrad",
+      "urn:vdf:eeid:e-t05",
+      "urn:vdf:eeid::s-u35:steckdose",
+      "urn:vdf:eeid:s-70b",
+      "urn:vdf:eeid:e-t07",
+      "urn:vdf:eeid:e-n42",
+      "urn:vdf:eeid:e-d09",
+      "urn:vdf:eeid:e-l06",
+      "urn:vdf:eeid::p-211:leder%20schwarz",
+      "urn:vdf:eeid:e-d07",
+      "urn:vdf:eeid:s-399",
+      "urn:vdf:eeid::s-725:dachreling%20aus%20aluminium",
+      "urn:vdf:eeid::s-b16:abgasanlage%202-flutig",
+      "urn:vdf:eeid::s-258:aktiver%20brems-assistent",
+      "urn:vdf:eeid::s-414:schiebedach",
+      "urn:vdf:eeid::s-290:windowbags",
+      "urn:vdf:eeid:e-q31",
+      "urn:vdf:eeid:s-807",
+      "urn:vdf:eeid:e-s77",
+      "urn:vdf:eeid:e-d11",
+      "urn:vdf:eeid:s-u08",
+      "urn:vdf:eeid::s-51u:innenhimmel%20stoff%20schwarz",
+      "urn:vdf:eeid:e-d14",
+      "urn:vdf:eeid:e-d15",
+      "urn:vdf:eeid:e-d16",
+      "urn:vdf:eeid:s-889",
+      "urn:vdf:eeid:e-d18",
+      "urn:vdf:eeid::s-h09:zierelemente%20holz%20esche%20braun%20offenporig",
+      "urn:vdf:eeid:e-d95",
+      "urn:vdf:eeid:s-p64",
+      "urn:vdf:eeid::s-533:lautsprecher",
+      "urn:vdf:eeid::s-u22:4-wege-lordosenst%c3%bctze",
+      "urn:vdf:eeid:e-s08",
+      "urn:vdf:eeid:e-g06",
+      "urn:vdf:eeid:s-818",
+      "urn:vdf:eeid:s-538",
+      "urn:vdf:eeid::s-890:easy-pack%20tailgate",
+      "urn:vdf:eeid:e-d24",
+      "urn:vdf:eeid:s-r39",
+      "urn:vdf:eeid:e-n63",
+      "urn:vdf:eeid:e-j67",
+      "urn:vdf:eeid:s-893",
+      "urn:vdf:eeid::s-212:elektronisches%20traktions-system%204ets",
+      "urn:vdf:eeid::s-287:fondsitzbank",
+      "urn:vdf:eeid::s-481:technischer%20unterschutz",
+      "urn:vdf:eeid:s-470",
+      "urn:vdf:eeid::s-294:kneebag",
+      "urn:vdf:eeid::s-160:bremsassistent%20bas",
+      "urn:vdf:eeid:e-o97",
+      "urn:vdf:eeid:e-q56",
+      "urn:vdf:eeid:s-505",
+      "urn:vdf:eeid:e-o92",
+      "urn:vdf:eeid::s-642:led%20intelligent%20light%20system",
+      "urn:vdf:eeid:e-s09",
+      "urn:vdf:eeid::s-845:3.%20sitzreihe",
+      "urn:vdf:eeid::s-873:sitzheizung%20f%c3%bcr%20fahrer%20und%20beifahrer",
+      "urn:vdf:eeid:e-g91",
+      "urn:vdf:eeid::s-215:adaptives%20d%c3%a4mpfungs-system",
+      "urn:vdf:eeid:s-581",
+      "urn:vdf:eeid::s-400:armlehne%20im%20fond",
+      "urn:vdf:eeid:s-360",
+      "urn:vdf:eeid:e-n02",
+      "urn:vdf:eeid:e-n03",
+      "urn:vdf:eeid:e-j07",
+      "urn:vdf:eeid:e-d46",
+      "urn:vdf:eeid:e-f88",
+      "urn:vdf:eeid:e-d47",
+      "urn:vdf:eeid:e-d48",
+      "urn:vdf:eeid::s-489:airmatic%20package",
+      "urn:vdf:eeid:e-n85",
+      "urn:vdf:eeid:s-872",
+      "urn:vdf:eeid:e-f80",
+      "urn:vdf:eeid:e-d40",
+      "urn:vdf:eeid:s-471",
+      "urn:vdf:eeid:e-f84",
+      "urn:vdf:eeid:e-d43"
+    ],
+    "positioningText": "Der GLS ist der SUV der S-Klasse und verbindet großzügiges Raumangebot mit modern interpretiertem Luxus.",
+    "codeSet": "de_DE__166873_002__E-D07_E-D09_E-D11_E-D14_E-D15_E-D16_E-D18_E-D24_E-D40_E-D43_E-D46_E-D47_E-D48_E-D52_E-D53_E-D59_E-D95_E-F32_E-F80_E-F84_E-F88_E-G06_E-G50_E-G56_E-G91_E-J07_E-J67_E-L06_E-L08_E-M74_E-M98_E-M99_E-N02_E-N03_E-N10_E-N34_E-N42_E-N63_E-N85_E-O92_E-O97_E-Q01_E-Q29_E-Q31_E-Q56_E-S08_E-S09_E-S36_E-S77_E-T05_E-T07_L-040_P-211_S-057_S-160_S-212_S-215_S-235_S-242_S-258_S-280_S-286_S-287_S-290_S-294_S-299_S-351_S-360_S-399_S-400_S-414_S-421_S-440_S-470_S-471_S-475_S-481_S-489_S-505_S-51U_S-533_S-538_S-573_S-581_S-642_S-70B_S-723_S-725_S-807_S-818_S-845_S-872_S-873_S-889_S-890_S-893_S-946_S-B03_S-B16_S-B59_S-H09_S-K11_S-P64_S-R39_S-U08_S-U22_S-U35_S-U60",
+    "conceptValueRatings": {
+      "autonom": 0.21428571428571427,
+      "innovativ": 0.25,
+      "kompakt": 0.03426328630529323,
+      "sportlich": 0.1775520483546004,
+      "gelaende": 1,
+      "eleganz": 0.9142857142857144,
+      "manuell": 0,
+      "stauraum": 1,
+      "sicherheit": 0.4122807017543864,
+      "rundumSicht": 0.2368421052631579,
+      "geraeumig": 1,
+      "puristisch": 0.3333333333333333,
+      "luxus": 0.6,
+      "traditionell": 0.25,
+      "sportlichesDesign": 0.023364485981308407,
+      "innenraumLuxus": 0.11206896551724138,
+      "extravaganz": 0.08,
+      "offenFahren": 0,
+      "effizient": 0.07827939164151129
+    },
+    "label": "GLS SUV",
+    "technicalValues": {
+      "fuelConsumptionExtraUrbanCycleMaxLiter": 9.2,
+      "rearAxleLoadAtKerbWeightEu": 750,
+      "efficiencyClass": "E",
+      "co2EmissionMin": 255,
+      "maximumTorque": 700,
+      "permTrailerLoadUnbraked": 750,
+      "acceleration": 5.3,
+      "noOfCylinders": 8,
+      "dragCoefficient": 0.37,
+      "hcEmission": 55,
+      "vehicleWidthIncExteriorMirrors": 1934,
+      "wheelType": "275/55 R 19",
+      "permTrailerLoadBrakedUpTo12_25": 0,
+      "frontAxleLoadAtKerbWeightEu": 3500,
+      "fuelConsumptionUrbanCycleMaxLiter": 14.9,
+      "fuelConsumptionCombinedMaxLiter": 11.3,
+      "fuelConsumptionUrbanCycleLiter": 14.6,
+      "co2EmissionMax": 264,
+      "fuelTankReserveLiter": 12,
+      "fuelTankCapacityLiter": 100,
+      "turningCircleDiameter": 12.4,
+      "eudcFuelConsumtionLiter": 9.3,
+      "permRoofLoad": 100,
+      "payloadEu": 805,
+      "ratedOutputHp": 455,
+      "fuelType": "S",
+      "transmissionType": "9G-TRONIC",
+      "fuelTypePrimary": "S",
+      "vehicleLength": 5130,
+      "combustionProcess": 2,
+      "permGrossVehicleWeight": 3250,
+      "combinedFuelConsumtionLiter": 11.3,
+      "fuelConsumptionExtraUrbanCycleLiter": 8.8,
+      "vehicleHeightReadyToDrive": 1850,
+      "rearTyreDesignation": "275/55 R 19",
+      "ratedOutputKw": 335,
+      "noOfDoorsIncTailgate": 5,
+      "maximumSpeed": 250,
+      "displacement": 4663,
+      "seats": 7,
+      "fuelConsumptionCombinedLiter": 10.9,
+      "yearlyCostEur": 3731.26,
+      "smk": 2270,
+      "driveConcept": 10,
+      "co2Emission": "Euro 6",
+      "cityFuelConsumtionLiter": 14.5,
+      "kerbWeightEu": 2445,
+      "generalColor": "Schwarz",
+      "color": "black",
+      "wheelBase": 3075,
+      "emissionStandard": 262
+    },
+    "typeClass": "X166",
+    "highlight": {
+      "equipmentCode": "",
+      "label": ""
+    },
+    "bodyType": "SUV",
+    "conceptValueExplanations": {
+      "autonom": {
+        "equipmentCodes": [
+          "S-489",
+          "S-235",
+          "S-160"
+        ],
+        "techValues": {}
+      },
+      "innovativ": {
+        "equipmentCodes": [
+          "S-U60",
+          "S-235",
+          "S-160",
+          "E-L06",
+          "S-893",
+          "S-360"
+        ],
+        "techValues": {}
+      },
+      "kompakt": {
+        "equipmentCodes": [],
+        "techValues": {
+          "vehicleWidthIncExteriorMirrors": "1934",
+          "vehicleLength": "5130.0"
+        }
+      },
+      "sportlich": {
+        "equipmentCodes": [
+          "S-489"
+        ],
+        "techValues": {
+          "dragCoefficient": "0.37",
+          "maximumSpeed": "250",
+          "ratedOutputHp": "455",
+          "acceleration": "5.3",
+          "ratedOutputKw": "335"
+        }
+      },
+      "gelaende": {
+        "equipmentCodes": [
+          "E-M98",
+          "E-O97"
+        ],
+        "techValues": {}
+      },
+      "eleganz": {
+        "equipmentCodes": [
+          "E-L08",
+          "E-D47",
+          "E-Q29",
+          "S-280",
+          "S-H09",
+          "E-F84",
+          "S-U08",
+          "P-211"
+        ],
+        "techValues": {
+          "typeClass": "X166"
+        }
+      },
+      "manuell": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "stauraum": {
+        "equipmentCodes": [
+          "E-F88",
+          "E-J67",
+          "E-J07",
+          "S-725",
+          "S-287",
+          "S-890",
+          "E-M99",
+          "E-Q31",
+          "E-Q01",
+          "S-286",
+          "E-N85",
+          "S-946",
+          "E-D16",
+          "E-D11"
+        ],
+        "techValues": {
+          "payloadEu": "805",
+          "typeClass": "X166"
+        }
+      },
+      "sicherheit": {
+        "equipmentCodes": [
+          "E-D53",
+          "S-K11",
+          "S-489",
+          "S-U60",
+          "S-235",
+          "S-470",
+          "S-471",
+          "S-538",
+          "S-160",
+          "S-258",
+          "E-O97",
+          "E-G06",
+          "S-212",
+          "S-573",
+          "E-D52",
+          "S-294",
+          "E-S77",
+          "S-642",
+          "S-299",
+          "S-475",
+          "E-O92",
+          "E-D14",
+          "E-F32",
+          "E-N63",
+          "E-D07",
+          "E-S36",
+          "E-N02",
+          "E-S09",
+          "E-D46",
+          "S-290",
+          "E-D59",
+          "E-D43",
+          "E-T07",
+          "S-723",
+          "E-D16",
+          "E-D15",
+          "S-70B",
+          "E-S08"
+        ],
+        "techValues": {}
+      },
+      "rundumSicht": {
+        "equipmentCodes": [],
+        "techValues": {
+          "typeClass": "X166"
+        }
+      },
+      "geraeumig": {
+        "equipmentCodes": [
+          "S-845"
+        ],
+        "techValues": {
+          "permRoofLoad": "100",
+          "payloadEu": "805",
+          "seats": "7",
+          "typeClass": "X166",
+          "noOfDoorsIncTailgate": "5"
+        }
+      },
+      "puristisch": {
+        "equipmentCodes": [
+          "S-505",
+          "S-818",
+          "S-533",
+          "S-51U",
+          "E-D24"
+        ],
+        "techValues": {}
+      },
+      "luxus": {
+        "equipmentCodes": [
+          "S-215"
+        ],
+        "techValues": {
+          "typeClass": "X166"
+        }
+      },
+      "traditionell": {
+        "equipmentCodes": [
+          "E-D18"
+        ],
+        "techValues": {}
+      },
+      "sportlichesDesign": {
+        "equipmentCodes": [
+          "S-B16"
+        ],
+        "techValues": {
+          "typeClass": "X166"
+        }
+      },
+      "innenraumLuxus": {
+        "equipmentCodes": [
+          "S-872"
+        ],
+        "techValues": {
+          "typeClass": "X166"
+        }
+      },
+      "extravaganz": {
+        "equipmentCodes": [],
+        "techValues": {
+          "typeClass": "X166"
+        }
+      },
+      "offenFahren": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "effizient": {
+        "equipmentCodes": [
+          "S-B03",
+          "E-G50"
+        ],
+        "techValues": {
+          "fuelConsumptionExtraUrbanCycleMaxLiter": "9.2",
+          "hcEmission": "55",
+          "fuelConsumptionUrbanCycleLiter": "14.6",
+          "fuelConsumptionCombinedMaxLiter": "11.3",
+          "combinedFuelConsumtionLiter": "11.3",
+          "emissionStandard": "262",
+          "co2EmissionMin": "255",
+          "fuelConsumptionExtraUrbanCycleLiter": "8.8",
+          "cityFuelConsumtionLiter": "14.5",
+          "fuelConsumptionCombinedLiter": "10.9",
+          "fuelConsumptionUrbanCycleMaxLiter": "14.9",
+          "eudcFuelConsumtionLiter": "9.3"
+        }
+      }
+    },
+    "esScore": 0.597422
+  },
+  {
+    "series": "CLS",
+    "model": "218991",
+    "modelImageUrl": "http://europe.starconnect-ce.i.daimler.com/iris/iris?COSY-EU-100-1713d0VXqbWFqtyO35PobzIvxXrItvsTQKkojUfGoo7GE11KFm9nhk9Q6FjcBXpUkXGEuJwJ0l3ChOB2qM%25bApUApI5uGQMQC3aMFkzNHmnm7jQGIhKVk%25w%25vqeIkyLR5c2YaxCaqrH1zmrn8w7PfoiZeboM4FsQkTSMrp32aJm7jaSthym9uv%25YhHtTyLRAG6Yax24WrH18H%25n8520R%256d9lo24YvsQdwOoZ1qggDu63FmZ3MkNulKlO1OsxACeqUx4WgZypge4Pb&&IMGT=A24&POV=BE040,PZR",
+    "equipments": [
+      "urn:vdf:eeid:e-n18",
+      "urn:vdf:eeid::s-438:neck-pro%20kopfst%c3%bctze",
+      "urn:vdf:eeid:s-290",
+      "urn:vdf:eeid::s-414:schiebedach",
+      "urn:vdf:eeid:e-d19",
+      "urn:vdf:eeid:e-m33",
+      "urn:vdf:eeid::s-583:fensterheber%20elektrisch",
+      "urn:vdf:eeid::s-818:cd-player",
+      "urn:vdf:eeid:e-q31",
+      "urn:vdf:eeid::s-68u:designo%20innenhimmel%20mikrofaser%20dinamica%20kristallgrau",
+      "urn:vdf:eeid:s-807",
+      "urn:vdf:eeid:e-q33",
+      "urn:vdf:eeid:e-d15",
+      "urn:vdf:eeid:e-j53",
+      "urn:vdf:eeid:e-d17",
+      "urn:vdf:eeid:e-d18",
+      "urn:vdf:eeid::s-632:led%20high%20performance-scheinwerfer",
+      "urn:vdf:eeid::s-440:tempomat",
+      "urn:vdf:eeid:e-d52",
+      "urn:vdf:eeid:e-d53",
+      "urn:vdf:eeid:e-t23",
+      "urn:vdf:eeid:e-s05",
+      "urn:vdf:eeid::s-351:mercedes-benz%20notrufsystem",
+      "urn:vdf:eeid:e-s08",
+      "urn:vdf:eeid:e-g05",
+      "urn:vdf:eeid:s-b03",
+      "urn:vdf:eeid:e-t62",
+      "urn:vdf:eeid:e-q01",
+      "urn:vdf:eeid:e-s44",
+      "urn:vdf:eeid:s-538",
+      "urn:vdf:eeid::s-890:easy-pack%20tailgate",
+      "urn:vdf:eeid:e-d25",
+      "urn:vdf:eeid:e-g03",
+      "urn:vdf:eeid:s-u12",
+      "urn:vdf:eeid::s-915:kraftstoffbeh%c3%a4lter%20mit%20gr%c3%b6%c3%9ferem%20volumen%20%2880l%29",
+      "urn:vdf:eeid:s-299",
+      "urn:vdf:eeid:s-211",
+      "urn:vdf:eeid:s-772",
+      "urn:vdf:eeid:s-11u",
+      "urn:vdf:eeid::s-421:9g-tronic",
+      "urn:vdf:eeid:e-d62",
+      "urn:vdf:eeid:s-p34",
+      "urn:vdf:eeid::s-287:easy-pack%20quickfold",
+      "urn:vdf:eeid:s-470",
+      "urn:vdf:eeid::s-475:reifendruckkontrolle",
+      "urn:vdf:eeid::s-294:kneebag",
+      "urn:vdf:eeid::s-160:bremsassistent%20bas",
+      "urn:vdf:eeid::s-k11:adaptives%20bremslicht",
+      "urn:vdf:eeid::s-161:sitzbelegungserkennung",
+      "urn:vdf:eeid:e-q52",
+      "urn:vdf:eeid::s-292:sidebags",
+      "urn:vdf:eeid::s-489:airmatic",
+      "urn:vdf:eeid:e-g96",
+      "urn:vdf:eeid:e-g97",
+      "urn:vdf:eeid:e-f32",
+      "urn:vdf:eeid:s-505",
+      "urn:vdf:eeid:e-g98",
+      "urn:vdf:eeid:e-m50",
+      "urn:vdf:eeid:e-g56",
+      "urn:vdf:eeid:e-m51",
+      "urn:vdf:eeid:e-d39",
+      "urn:vdf:eeid:e-m52",
+      "urn:vdf:eeid:e-s09",
+      "urn:vdf:eeid::s-873:sitzheizung%20f%c3%bcr%20fahrer%20und%20beifahrer",
+      "urn:vdf:eeid::s-h21:zierelemente%20klavierlack%20schwarz",
+      "urn:vdf:eeid::s-591:w%c3%a4rmed%c3%a4mmendes%20glas",
+      "urn:vdf:eeid:s-345",
+      "urn:vdf:eeid:e-d72",
+      "urn:vdf:eeid:e-g93",
+      "urn:vdf:eeid:s-581",
+      "urn:vdf:eeid:e-g95",
+      "urn:vdf:eeid:e-q27",
+      "urn:vdf:eeid:s-360",
+      "urn:vdf:eeid:l-796",
+      "urn:vdf:eeid::s-543:sonnenblenden",
+      "urn:vdf:eeid:s-70b",
+      "urn:vdf:eeid:e-t07",
+      "urn:vdf:eeid:e-j02",
+      "urn:vdf:eeid::s-723:laderaumabdeckung",
+      "urn:vdf:eeid::s-r90:lmr%204fach%205-doppelspeichen-design%2c%2048%2c3%20cm%20%2819%27%27%29",
+      "urn:vdf:eeid:e-t41",
+      "urn:vdf:eeid:e-j08",
+      "urn:vdf:eeid:e-n48",
+      "urn:vdf:eeid:e-d46",
+      "urn:vdf:eeid:e-d48",
+      "urn:vdf:eeid:e-n82",
+      "urn:vdf:eeid:e-n83",
+      "urn:vdf:eeid:s-877",
+      "urn:vdf:eeid:e-d80",
+      "urn:vdf:eeid:s-278",
+      "urn:vdf:eeid::s-291:pelvisbags",
+      "urn:vdf:eeid::p-501:leder%20passion%20exklusiv%20schwarz",
+      "urn:vdf:eeid:s-472",
+      "urn:vdf:eeid::s-258:collision%20prevention%20assist%20plus"
+    ],
+    "segment": "Large",
+    "positioningText": "Der CLS Shooting Brake begeistert mit viel Platz, jeder Menge Luxus und agiler Fahrdynamik.",
+    "codeSet": "de_DE__218991_001__E-D15_E-D17_E-D18_E-D19_E-D25_E-D39_E-D46_E-D48_E-D52_E-D53_E-D62_E-D72_E-D80_E-F32_E-G03_E-G05_E-G56_E-G93_E-G95_E-G96_E-G97_E-G98_E-J02_E-J08_E-J53_E-M33_E-M50_E-M51_E-M52_E-N18_E-N48_E-N82_E-N83_E-Q01_E-Q27_E-Q31_E-Q33_E-Q52_E-S05_E-S08_E-S09_E-S44_E-T07_E-T23_E-T41_E-T62_L-796_P-501_S-11U_S-160_S-161_S-211_S-258_S-278_S-287_S-290_S-291_S-292_S-294_S-299_S-345_S-351_S-360_S-414_S-421_S-438_S-440_S-470_S-472_S-475_S-489_S-505_S-538_S-543_S-581_S-583_S-591_S-632_S-68U_S-70B_S-723_S-772_S-807_S-818_S-873_S-877_S-890_S-915_S-B03_S-H21_S-K11_S-P34_S-R90_S-U12",
+    "conceptValueRatings": {
+      "autonom": 0.07142857142857142,
+      "innovativ": 0.07142857142857142,
+      "kompakt": 0.2720377638697359,
+      "sportlich": 0.28265614506380116,
+      "gelaende": 0.10869565217391305,
+      "eleganz": 0.7428571428571429,
+      "manuell": 0,
+      "stauraum": 0.652173913043478,
+      "sicherheit": 0.35526315789473745,
+      "rundumSicht": 0.10526315789473685,
+      "geraeumig": 0.35,
+      "puristisch": 0.2,
+      "luxus": 0.26666666666666666,
+      "traditionell": 0.75,
+      "sportlichesDesign": 0.10747663551401868,
+      "innenraumLuxus": 0.25000000000000006,
+      "extravaganz": 0.24666666666666667,
+      "offenFahren": 0,
+      "effizient": 0.18867551164800778
+    },
+    "label": "CLS Shooting Brake",
+    "technicalValues": {
+      "fuelConsumptionExtraUrbanCycleMaxLiter": 8.3,
+      "rearAxleLoadAtKerbWeightEu": 1280,
+      "efficiencyClass": "E",
+      "co2EmissionMin": 230,
+      "maximumTorque": 600,
+      "permTrailerLoadUnbraked": 750,
+      "acceleration": 4.9,
+      "noOfCylinders": 8,
+      "dragCoefficient": 0.3,
+      "hcEmission": 36,
+      "vehicleWidthIncExteriorMirrors": 2075,
+      "wheelType": "255/40 R 18",
+      "permTrailerLoadBrakedUpTo12_25": 0,
+      "frontAxleLoadAtKerbWeightEu": 1250,
+      "fuelConsumptionUrbanCycleMaxLiter": 13.1,
+      "fuelConsumptionCombinedMaxLiter": 10.1,
+      "fuelConsumptionUrbanCycleLiter": 12.8,
+      "co2EmissionMax": 236,
+      "fuelTankReserveLiter": 9,
+      "fuelTankCapacityLiter": 80,
+      "turningCircleDiameter": 11.53,
+      "eudcFuelConsumtionLiter": 7.9,
+      "permRoofLoad": 100,
+      "payloadEu": 525,
+      "ratedOutputHp": 408,
+      "fuelType": "S",
+      "transmissionType": "7-Gang Sequentronic",
+      "fuelTypePrimary": "S",
+      "vehicleLength": 4955,
+      "combustionProcess": 2,
+      "permGrossVehicleWeight": 2530,
+      "combinedFuelConsumtionLiter": 9.9,
+      "fuelConsumptionExtraUrbanCycleLiter": 8.1,
+      "vehicleHeightReadyToDrive": 1433,
+      "rearTyreDesignation": "255/40 R 18",
+      "ratedOutputKw": 300,
+      "noOfDoorsIncTailgate": 5,
+      "maximumSpeed": 250,
+      "displacement": 4663,
+      "seats": 5,
+      "fuelConsumptionCombinedLiter": 9.9,
+      "yearlyCostEur": 3268.98,
+      "smk": 2040,
+      "driveConcept": 10,
+      "co2Emission": "Euro 6",
+      "cityFuelConsumtionLiter": 13.4,
+      "kerbWeightEu": 2005,
+      "generalColor": "Braun",
+      "color": "citrinbraun metallic",
+      "wheelBase": 2874,
+      "emissionStandard": 231
+    },
+    "typeClass": "X218",
+    "highlight": {
+      "equipmentCode": "",
+      "label": ""
+    },
+    "bodyType": "Shooting Brake",
+    "conceptValueExplanations": {
+      "autonom": {
+        "equipmentCodes": [
+          "S-489",
+          "S-160"
+        ],
+        "techValues": {}
+      },
+      "innovativ": {
+        "equipmentCodes": [
+          "S-160",
+          "S-360",
+          "S-11U"
+        ],
+        "techValues": {}
+      },
+      "kompakt": {
+        "equipmentCodes": [],
+        "techValues": {
+          "vehicleWidthIncExteriorMirrors": "2075",
+          "vehicleLength": "4955.0",
+          "typeClass": "X218"
+        }
+      },
+      "sportlich": {
+        "equipmentCodes": [
+          "S-489",
+          "S-211"
+        ],
+        "techValues": {
+          "dragCoefficient": "0.3",
+          "maximumSpeed": "250",
+          "ratedOutputHp": "408",
+          "acceleration": "4.9",
+          "ratedOutputKw": "300"
+        }
+      },
+      "gelaende": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "eleganz": {
+        "equipmentCodes": [
+          "E-M50",
+          "S-68U",
+          "P-501",
+          "E-D39",
+          "S-H21"
+        ],
+        "techValues": {
+          "typeClass": "X218"
+        }
+      },
+      "manuell": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "stauraum": {
+        "equipmentCodes": [
+          "E-G93",
+          "S-287",
+          "S-890",
+          "E-Q31",
+          "E-M33",
+          "E-Q01",
+          "E-Q33",
+          "E-D17"
+        ],
+        "techValues": {
+          "payloadEu": "525",
+          "typeClass": "X218"
+        }
+      },
+      "sicherheit": {
+        "equipmentCodes": [
+          "E-D53",
+          "S-K11",
+          "S-291",
+          "E-G03",
+          "S-489",
+          "S-470",
+          "E-G05",
+          "S-538",
+          "E-G95",
+          "E-S05",
+          "S-161",
+          "S-160",
+          "E-J53",
+          "S-258",
+          "S-472",
+          "E-S44",
+          "E-N48",
+          "E-D52",
+          "S-294",
+          "E-D25",
+          "E-N83",
+          "E-T23",
+          "S-299",
+          "S-475",
+          "S-345",
+          "E-G96",
+          "E-F32",
+          "S-292",
+          "E-S09",
+          "E-D46",
+          "S-290",
+          "E-T07",
+          "S-723",
+          "S-632",
+          "E-D72",
+          "E-D15",
+          "S-70B",
+          "E-S08"
+        ],
+        "techValues": {}
+      },
+      "rundumSicht": {
+        "equipmentCodes": [],
+        "techValues": {
+          "typeClass": "X218"
+        }
+      },
+      "geraeumig": {
+        "equipmentCodes": [],
+        "techValues": {
+          "permRoofLoad": "100",
+          "payloadEu": "525",
+          "seats": "5",
+          "typeClass": "X218",
+          "noOfDoorsIncTailgate": "5"
+        }
+      },
+      "puristisch": {
+        "equipmentCodes": [
+          "S-505",
+          "S-818",
+          "E-Q52"
+        ],
+        "techValues": {}
+      },
+      "luxus": {
+        "equipmentCodes": [],
+        "techValues": {
+          "typeClass": "X218"
+        }
+      },
+      "traditionell": {
+        "equipmentCodes": [
+          "S-U12",
+          "E-M51",
+          "E-D18"
+        ],
+        "techValues": {}
+      },
+      "sportlichesDesign": {
+        "equipmentCodes": [
+          "S-772",
+          "E-D19"
+        ],
+        "techValues": {
+          "typeClass": "X218"
+        }
+      },
+      "innenraumLuxus": {
+        "equipmentCodes": [
+          "S-877",
+          "E-T41",
+          "E-Q27"
+        ],
+        "techValues": {
+          "typeClass": "X218"
+        }
+      },
+      "extravaganz": {
+        "equipmentCodes": [
+          "E-N82"
+        ],
+        "techValues": {
+          "typeClass": "X218"
+        }
+      },
+      "offenFahren": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "effizient": {
+        "equipmentCodes": [
+          "S-B03",
+          "S-915"
+        ],
+        "techValues": {
+          "fuelConsumptionExtraUrbanCycleMaxLiter": "8.3",
+          "hcEmission": "36",
+          "fuelConsumptionUrbanCycleLiter": "12.8",
+          "fuelConsumptionCombinedMaxLiter": "10.1",
+          "combinedFuelConsumtionLiter": "9.9",
+          "emissionStandard": "231",
+          "co2EmissionMin": "230",
+          "fuelConsumptionExtraUrbanCycleLiter": "8.1",
+          "cityFuelConsumtionLiter": "13.4",
+          "fuelConsumptionCombinedLiter": "9.9",
+          "fuelConsumptionUrbanCycleMaxLiter": "13.1",
+          "eudcFuelConsumtionLiter": "7.9"
+        }
+      }
+    },
+    "esScore": 0.5739525
+  },
+  {
+    "series": "S-Klasse",
+    "model": "222185",
+    "modelImageUrl": "http://europe.starconnect-ce.i.daimler.com/iris/iris?COSY-EU-100-1713d0VXqbS7qtyO35PobzIvxXrItvsTQKkojUfGoo7GE11KFm9nh39Q6FjcBXpLcXGEubYJ0l36AOB2NzFbApRdRI5uGoJQC30hpkzNH%25wm7j8hohKViHL%25vqmvZyLRhAmYaxU5ErH1zJun8w782oiZK%25oM4FvTMTg9wQT6PDGmhSc6o3ju8b%25vq8cXyr%25WNaYnyiXWrH1CBtn8wazwoiZHqZM4FNyrTg9Pz36PKNCZnX2f3SNsQ2sD4DkSW9wUUEVXqdYWqtyRV3H3k9kBF7v0wAFslUWojU0sGm&&IMGT=A24&POV=BE040,PZR",
+    "equipments": [
+      "urn:vdf:eeid:s-r72",
+      "urn:vdf:eeid::p-515:leder%20exklusiv%20nappa%20porzellan%2fschwarz",
+      "urn:vdf:eeid:s-293",
+      "urn:vdf:eeid::s-61u:designo%20innenhimmel%20mikrofaser%20dinamica%20schwarz",
+      "urn:vdf:eeid:e-n13",
+      "urn:vdf:eeid:e-m70",
+      "urn:vdf:eeid:e-d58",
+      "urn:vdf:eeid::s-u60:aktive%20motorhaube",
+      "urn:vdf:eeid::s-436:komfort-kopfst%c3%bctze%20f%c3%bcr%20fahrer%20und%20beifahrer",
+      "urn:vdf:eeid:s-448",
+      "urn:vdf:eeid::s-440:tempomat",
+      "urn:vdf:eeid::s-213:direktlenkung",
+      "urn:vdf:eeid:e-d53",
+      "urn:vdf:eeid:s-441",
+      "urn:vdf:eeid::s-351:mercedes-benz%20notrufsystem",
+      "urn:vdf:eeid::s-402:sitzklimatisierung%20im%20fond",
+      "urn:vdf:eeid:e-m88",
+      "urn:vdf:eeid:s-b03",
+      "urn:vdf:eeid:e-m89",
+      "urn:vdf:eeid:e-t62",
+      "urn:vdf:eeid::s-724:vorr%c3%bcstung%20f%c3%bcr%20dachtr%c3%a4gersysteme",
+      "urn:vdf:eeid:e-q01",
+      "urn:vdf:eeid::s-275:memory-funktion%20f%c3%bcr%20fahrer%20und%20beifahrer%2c%20au%c3%9fenspiegel-%20und%20lenks%c3%a4ulenverstellung",
+      "urn:vdf:eeid:s-735",
+      "urn:vdf:eeid:s-299",
+      "urn:vdf:eeid::s-421:9g-tronic",
+      "urn:vdf:eeid:s-p34",
+      "urn:vdf:eeid:s-297",
+      "urn:vdf:eeid::s-475:reifendruckkontrolle",
+      "urn:vdf:eeid::s-k11:adaptives%20bremslicht",
+      "urn:vdf:eeid::s-b54:live%20traffic%20information",
+      "urn:vdf:eeid:e-f32",
+      "urn:vdf:eeid:e-m92",
+      "urn:vdf:eeid:e-m93",
+      "urn:vdf:eeid:e-m94",
+      "urn:vdf:eeid:e-g56",
+      "urn:vdf:eeid:s-p09",
+      "urn:vdf:eeid:e-m95",
+      "urn:vdf:eeid:e-d71",
+      "urn:vdf:eeid::s-276:memory-funktion%20fond",
+      "urn:vdf:eeid:e-g50",
+      "urn:vdf:eeid:s-70b",
+      "urn:vdf:eeid:e-o63",
+      "urn:vdf:eeid:e-s62",
+      "urn:vdf:eeid::s-280:2-spoke%20multifunction%20steering%20wheel%20in%20nappa%20leather",
+      "urn:vdf:eeid:e-n49",
+      "urn:vdf:eeid:s-8u8",
+      "urn:vdf:eeid::s-u01:fondgurt-statusanzeige%20im%20instrumenten-display",
+      "urn:vdf:eeid::s-513:verkehrszeichen-assistent",
+      "urn:vdf:eeid:e-d80",
+      "urn:vdf:eeid:s-8u0",
+      "urn:vdf:eeid::s-292:sidebag%20f%c3%bcr%20fahrer%20und%20beifahrer%20%28kombinierter%20thorax-%2fpelvisbag%29",
+      "urn:vdf:eeid:e-m33",
+      "urn:vdf:eeid::s-290:windowbags",
+      "urn:vdf:eeid:s-807",
+      "urn:vdf:eeid::s-h21:designo%20zierelemente%20klavierlack%20schwarz",
+      "urn:vdf:eeid:e-d14",
+      "urn:vdf:eeid:e-j53",
+      "urn:vdf:eeid:e-o71",
+      "urn:vdf:eeid::s-632:led%20high%20performance-scheinwerfer",
+      "urn:vdf:eeid::s-223:fondsitze%20elektrisch%20einstellbar%20inklusive%20memoryfunktion",
+      "urn:vdf:eeid:e-d95",
+      "urn:vdf:eeid:s-p64",
+      "urn:vdf:eeid:e-d98",
+      "urn:vdf:eeid:e-s08",
+      "urn:vdf:eeid::s-883:servoschlie%c3%9fen",
+      "urn:vdf:eeid:e-g06",
+      "urn:vdf:eeid:e-o89",
+      "urn:vdf:eeid::l-799:designo%20diamantwei%c3%9f%20bright",
+      "urn:vdf:eeid::s-540:roller%20sublinds%20electric%20for%20rear%20window",
+      "urn:vdf:eeid:s-538",
+      "urn:vdf:eeid::s-171:serviceintervallanzeige%20assyst",
+      "urn:vdf:eeid:e-d24",
+      "urn:vdf:eeid:s-815",
+      "urn:vdf:eeid:s-u12",
+      "urn:vdf:eeid:s-u10",
+      "urn:vdf:eeid:s-531",
+      "urn:vdf:eeid:s-11u",
+      "urn:vdf:eeid:s-470",
+      "urn:vdf:eeid::s-160:bremsassistent%20bas",
+      "urn:vdf:eeid::s-u25:einstiegsleisten%20mit%20%c2%bbmercedes-benz%c2%ab%20schriftzug%2c%20beleuchtet",
+      "urn:vdf:eeid:e-g18",
+      "urn:vdf:eeid:e-q56",
+      "urn:vdf:eeid:e-g98",
+      "urn:vdf:eeid:e-j74",
+      "urn:vdf:eeid:s-903",
+      "urn:vdf:eeid:e-s09",
+      "urn:vdf:eeid::s-873:sitzheizung%20f%c3%bcr%20fahrer%20und%20beifahrer",
+      "urn:vdf:eeid:s-345",
+      "urn:vdf:eeid:s-581",
+      "urn:vdf:eeid:s-360",
+      "urn:vdf:eeid:e-m69",
+      "urn:vdf:eeid:e-t41",
+      "urn:vdf:eeid:e-j07",
+      "urn:vdf:eeid:s-518",
+      "urn:vdf:eeid:s-877",
+      "urn:vdf:eeid:e-m64",
+      "urn:vdf:eeid::s-596:w%c3%a4rme-%20und%20ger%c3%a4uschd%c3%a4mmendes%20sowie%20infrarot%20reflektierendes%20verbundsicherheitsglas",
+      "urn:vdf:eeid:s-471",
+      "urn:vdf:eeid::s-258:collision%20prevention%20assist%20plus",
+      "urn:vdf:eeid::s-249:interior%20mirror%20and%20driver%27s%20exterior%20mirror%20automatically%20dimming"
+    ],
+    "positioningText": "Der Maßstab im Luxussegment: Die S-Klasse verbindet stilvolle Souveränität mit sportlicher Eleganz.",
+    "codeSet": "de_DE__222185_000__E-D14_E-D24_E-D53_E-D58_E-D71_E-D80_E-D95_E-D98_E-F32_E-G06_E-G18_E-G50_E-G56_E-G98_E-J07_E-J53_E-J74_E-M33_E-M64_E-M69_E-M70_E-M88_E-M89_E-M92_E-M93_E-M94_E-M95_E-N13_E-N49_E-O63_E-O71_E-O89_E-Q01_E-Q56_E-S08_E-S09_E-S62_E-T41_E-T62_L-799_P-515_S-11U_S-160_S-171_S-213_S-223_S-249_S-258_S-275_S-276_S-280_S-290_S-292_S-293_S-297_S-299_S-345_S-351_S-360_S-402_S-421_S-436_S-440_S-441_S-448_S-470_S-471_S-475_S-513_S-518_S-531_S-538_S-540_S-581_S-596_S-61U_S-632_S-70B_S-724_S-735_S-807_S-815_S-873_S-877_S-883_S-8U0_S-8U8_S-903_S-B03_S-B54_S-H21_S-K11_S-P09_S-P34_S-P64_S-R72_S-U01_S-U10_S-U12_S-U25_S-U60",
+    "conceptValueRatings": {
+      "autonom": 0.14285714285714285,
+      "innovativ": 0.4642857142857143,
+      "kompakt": 0.021958205155404673,
+      "sportlich": 0.14271323035594358,
+      "gelaende": 0.10869565217391305,
+      "eleganz": 0.85,
+      "manuell": 0,
+      "stauraum": 0.26086956521739124,
+      "sicherheit": 0.4254385964912284,
+      "rundumSicht": 0.18421052631578946,
+      "geraeumig": 0.45,
+      "puristisch": 0.13333333333333333,
+      "luxus": 0.6666666666666666,
+      "traditionell": 0.5,
+      "sportlichesDesign": 0.0514018691588785,
+      "innenraumLuxus": 0.5689655172413793,
+      "extravaganz": 0.12000000000000001,
+      "offenFahren": 0,
+      "effizient": 0.21777359610656538
+    },
+    "label": "S-Klasse Langversion",
+    "technicalValues": {
+      "fuelConsumptionExtraUrbanCycleMaxLiter": 7.6,
+      "rearAxleLoadAtKerbWeightEu": 1460,
+      "efficiencyClass": "D",
+      "co2EmissionMin": 211,
+      "maximumTorque": 700,
+      "permTrailerLoadUnbraked": 750,
+      "acceleration": 4.8,
+      "noOfCylinders": 8,
+      "dragCoefficient": 0.27,
+      "hcEmission": 59,
+      "vehicleWidthIncExteriorMirrors": 2130,
+      "wheelType": "245/50 R18",
+      "permTrailerLoadBrakedUpTo12_25": 0,
+      "frontAxleLoadAtKerbWeightEu": 1355,
+      "fuelConsumptionUrbanCycleMaxLiter": 13.4,
+      "fuelConsumptionCombinedMaxLiter": 9.8,
+      "fuelConsumptionUrbanCycleLiter": 12.7,
+      "co2EmissionMax": 227,
+      "fuelTankReserveLiter": 8,
+      "fuelTankCapacityLiter": 80,
+      "turningCircleDiameter": 12.3,
+      "eudcFuelConsumtionLiter": 7.4,
+      "permRoofLoad": 100,
+      "payloadEu": 680,
+      "ratedOutputHp": 455,
+      "fuelType": "S",
+      "transmissionType": "7-Gang Sequentronic",
+      "fuelTypePrimary": "S",
+      "vehicleLength": 5246,
+      "combustionProcess": 2,
+      "permGrossVehicleWeight": 2750,
+      "combinedFuelConsumtionLiter": 9.5,
+      "fuelConsumptionExtraUrbanCycleLiter": 6.8,
+      "vehicleHeightReadyToDrive": 1494,
+      "rearTyreDesignation": "245/50 R18",
+      "ratedOutputKw": 335,
+      "noOfDoorsIncTailgate": 4,
+      "maximumSpeed": 250,
+      "displacement": 4663,
+      "seats": 5,
+      "fuelConsumptionCombinedLiter": 9,
+      "yearlyCostEur": 3136.9,
+      "smk": 2040,
+      "driveConcept": 10,
+      "co2Emission": "Euro 6",
+      "cityFuelConsumtionLiter": 13.2,
+      "kerbWeightEu": 2070,
+      "generalColor": "Weiß",
+      "color": "designo diamantweiß bright",
+      "wheelBase": 3165,
+      "emissionStandard": 222
+    },
+    "typeClass": "V222",
+    "highlight": {
+      "equipmentCode": "S-P34",
+      "label": "Exklusiv-Paket"
+    },
+    "bodyType": "Limousine lang",
+    "conceptValueExplanations": {
+      "autonom": {
+        "equipmentCodes": [
+          "S-160",
+          "E-M70"
+        ],
+        "techValues": {}
+      },
+      "innovativ": {
+        "equipmentCodes": [
+          "S-U60",
+          "S-160",
+          "E-M70",
+          "S-513",
+          "S-448",
+          "S-B54",
+          "S-360",
+          "E-O63",
+          "S-11U",
+          "S-518",
+          "E-O89"
+        ],
+        "techValues": {}
+      },
+      "kompakt": {
+        "equipmentCodes": [],
+        "techValues": {
+          "vehicleWidthIncExteriorMirrors": "2130",
+          "vehicleLength": "5246.0"
+        }
+      },
+      "sportlich": {
+        "equipmentCodes": [],
+        "techValues": {
+          "dragCoefficient": "0.27",
+          "maximumSpeed": "250",
+          "ratedOutputHp": "455",
+          "acceleration": "4.8",
+          "ratedOutputKw": "335"
+        }
+      },
+      "gelaende": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "eleganz": {
+        "equipmentCodes": [
+          "S-61U",
+          "P-515",
+          "S-280",
+          "S-H21",
+          "S-735"
+        ],
+        "techValues": {
+          "typeClass": "V222"
+        }
+      },
+      "manuell": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "stauraum": {
+        "equipmentCodes": [
+          "E-M95",
+          "E-J07",
+          "E-J74",
+          "E-M33",
+          "E-Q01",
+          "E-M64",
+          "S-724"
+        ],
+        "techValues": {
+          "payloadEu": "680",
+          "typeClass": "V222"
+        }
+      },
+      "sicherheit": {
+        "equipmentCodes": [
+          "E-D53",
+          "S-K11",
+          "E-N49",
+          "S-U60",
+          "S-470",
+          "S-471",
+          "S-538",
+          "S-U10",
+          "S-160",
+          "E-J53",
+          "S-258",
+          "E-M70",
+          "E-G06",
+          "E-D71",
+          "S-513",
+          "S-U01",
+          "S-8U8",
+          "S-213",
+          "E-S62",
+          "E-M94",
+          "S-8U0",
+          "S-299",
+          "S-475",
+          "S-345",
+          "E-D14",
+          "E-F32",
+          "S-292",
+          "S-293",
+          "E-S09",
+          "S-290",
+          "E-M92",
+          "S-724",
+          "S-632",
+          "S-70B",
+          "E-S08",
+          "E-M89"
+        ],
+        "techValues": {}
+      },
+      "rundumSicht": {
+        "equipmentCodes": [],
+        "techValues": {
+          "typeClass": "V222"
+        }
+      },
+      "geraeumig": {
+        "equipmentCodes": [],
+        "techValues": {
+          "permRoofLoad": "100",
+          "payloadEu": "680",
+          "seats": "5",
+          "typeClass": "V222",
+          "noOfDoorsIncTailgate": "4"
+        }
+      },
+      "puristisch": {
+        "equipmentCodes": [
+          "S-531",
+          "E-N13",
+          "E-D24"
+        ],
+        "techValues": {}
+      },
+      "luxus": {
+        "equipmentCodes": [],
+        "techValues": {
+          "typeClass": "V222"
+        }
+      },
+      "traditionell": {
+        "equipmentCodes": [
+          "S-U12",
+          "E-O71"
+        ],
+        "techValues": {}
+      },
+      "sportlichesDesign": {
+        "equipmentCodes": [
+          "S-U25"
+        ],
+        "techValues": {
+          "typeClass": "V222"
+        }
+      },
+      "innenraumLuxus": {
+        "equipmentCodes": [
+          "S-877",
+          "E-T41",
+          "S-402",
+          "S-276",
+          "S-903",
+          "E-M93",
+          "E-G18"
+        ],
+        "techValues": {
+          "typeClass": "V222"
+        }
+      },
+      "extravaganz": {
+        "equipmentCodes": [],
+        "techValues": {
+          "typeClass": "V222"
+        }
+      },
+      "offenFahren": {
+        "equipmentCodes": [],
+        "techValues": {}
+      },
+      "effizient": {
+        "equipmentCodes": [
+          "S-B03",
+          "E-G50"
+        ],
+        "techValues": {
+          "fuelConsumptionExtraUrbanCycleMaxLiter": "7.6",
+          "hcEmission": "59",
+          "fuelConsumptionUrbanCycleLiter": "12.7",
+          "fuelConsumptionCombinedMaxLiter": "9.8",
+          "combinedFuelConsumtionLiter": "9.5",
+          "emissionStandard": "222",
+          "co2EmissionMin": "211",
+          "fuelConsumptionExtraUrbanCycleLiter": "6.8",
+          "cityFuelConsumtionLiter": "13.2",
+          "fuelConsumptionCombinedLiter": "9.0",
+          "fuelConsumptionUrbanCycleMaxLiter": "13.4",
+          "eudcFuelConsumtionLiter": "7.4"
+        }
+      }
+    },
+    "esScore": 0.5122795
+  }
+]

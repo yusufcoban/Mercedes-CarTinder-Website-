@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Daimler Yusuf Coban</title>
+<meta charset="utf-8"></meta>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
+<meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+<meta name="description" content=""></meta>
+<meta name="author" content=""></meta>
+
+
+<!-- CSS -->
+<link href="css/bootstrap.min.css" rel="stylesheet"></link>
+<link rel="stylesheet" type="text/css" href="css/jTinder.css"></link>
+<link rel="stylesheet" type="text/css" href="css/herzblatt.css"></link>
+<link rel="stylesheet" href="css/w3.css"></link>
+
+
+<!-- Custom CSS -->
+<style>
+body {
+	padding-top: 70px;
+	/* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+</style>
+
+
+</head>
+
+<body style="overflow: inherit;">
+
+	<!-- Navigation -->
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="http://localhost:8080/demo#">Daimler</a>
+			</div>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="http://localhost:8080/">Home</a></li>
+					<li><a href="http://localhost:8080/statistik.html">Statistik</a></li>
+					<li><a href="http://localhost:8080/demo#">Contact</a></li>
+				</ul>
+			</div>
+			<!-- /.navbar-collapse -->
+		</div>
+		<!-- /.container -->
+	</nav>
+
+	<!-- Page Content -->
+	<div class="container-fluid">
+
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h1>CarTinderApp</h1>
+			</div>
+		</div>
+		<!-- /.row -->
+
+	</div>
+
+	<!-- Circle Loader with Server Status Checker -->
+	<div class="serverstatus" id="serverstatus"></div>
+	<div class="loader" id="loader" style="display: none;"></div>
+
+	<!-- demo -->
+	 <div id="demo" class="mainpart container-fluid"><div id="gallery0" class="gallery"><a id="gallery0_id" target="_blank" href="http://localhost:8080/demo">
+	 <img src="./img/pane/pane1.jpg" id="herzblatt0img" style="height: auto;"></img>
+	 <div id="herzblatt0_modellname" class="desc"></div>
+	 </a>
+	 <div id="div30">
+	 <a id="verbrauch1_wert">
+	 </a>Verbrauch: 4.8 L/100km: </div>
+	 <div id="div40" class="w3-light-grey w3-round-xlarge">
+	 <div id="verbrauch1" class="w3-container w3-blue w3-round-xlarge" style="width: 24%;">
+	 <a id="leistung1_wert"></a></div></div>Leistung: 203 in PS<div id="div70" class="w3-light-grey w3-round-xlarge">
+	 <div id="leistung1" class="w3-container w3-blue w3-round-xlarge" style="width: 31%;"></div></div><div>
+	 </div></div><div id="gallery1" class="gallery"><a id="gallery1_id" target="_blank" href="http://localhost:8080/demo">
+	 <img src="./img/pane/pane1.jpg" id="herzblatt1img" style="height: auto;"></img><div id="herzblatt1_modellname" class="desc"></div></a><div id="div31"><a id="verbrauch2_wert"></a>Verbrauch: 7.1 L/100km: </div><div id="div41" class="w3-light-grey w3-round-xlarge"><div id="verbrauch2" class="w3-container w3-blue w3-round-xlarge" style="width: 35.5%;"><a id="leistung2_wert"></a></div></div>Leistung: 380 in PS<div id="div71" class="w3-light-grey w3-round-xlarge"><div id="leistung2" class="w3-container w3-blue w3-round-xlarge" style="width: 58%;"></div></div><div></div></div><div id="gallery2" class="gallery"><a id="gallery2_id" target="_blank" href="http://localhost:8080/demo"><img src="./img/pane/pane1.jpg" id="herzblatt2img" style="height: auto;"></img><div id="herzblatt2_modellname" class="desc"></div></a><div id="div32"><a id="verbrauch3_wert"></a>Verbrauch: 10.4 L/100km: </div><div id="div42" class="w3-light-grey w3-round-xlarge"><div id="verbrauch3" class="w3-container w3-blue w3-round-xlarge" style="width: 52%;"><a id="leistung3_wert"></a></div></div>Leistung: 584 in PS<div id="div72" class="w3-light-grey w3-round-xlarge"><div id="leistung3" class="w3-container w3-blue w3-round-xlarge" style="width: 89%;"></div></div><div></div></div><div id="gallery3" class="gallery"><a id="gallery3_id" target="_blank" href="http://localhost:8080/demo"><img src="./img/pane/pane1.jpg" id="herzblatt3img" style="height: auto;"></img><div id="herzblatt3_modellname" class="desc"></div></a><div id="div33"><a id="verbrauch4_wert"></a>Verbrauch: 6.7 L/100km: </div><div id="div43" class="w3-light-grey w3-round-xlarge"><div id="verbrauch4" class="w3-container w3-blue w3-round-xlarge" style="width: 33.5%;"><a id="leistung4_wert"></a></div></div>Leistung: 244 in PS<div id="div73" class="w3-light-grey w3-round-xlarge"><div id="leistung4" class="w3-container w3-blue w3-round-xlarge" style="width: 37%;"></div></div><div></div></div><div id="gallery4" class="gallery"><a id="gallery4_id" target="_blank" href="http://localhost:8080/demo"><img src="./img/pane/pane1.jpg" id="herzblatt4img" style="height: auto;"></img><div id="herzblatt4_modellname" class="desc"></div></a><div id="div34"><a id="verbrauch5_wert"></a>Verbrauch: 7.1 L/100km: </div><div id="div44" class="w3-light-grey w3-round-xlarge"><div id="verbrauch5" class="w3-container w3-blue w3-round-xlarge" style="width: 35.5%;"><a id="leistung5_wert"></a></div></div>Leistung: 380 in PS<div id="div74" class="w3-light-grey w3-round-xlarge"><div id="leistung5" class="w3-container w3-blue w3-round-xlarge" style="width: 58%;"></div></div><div></div></div></div>
+
+
+
+
+
+
+
+	<!-- Herzblatt Anzeige-->
+	<div style="display: none" id="herzblatt_ul"></div>
+	<div class="mainpart" style="display: none" id="mybox">
+		<div class="gallery" id="gallery1">
+			<a target="_blank" href="http://localhost:8080/demo" id="gallery0_id"> <img src="http://localhost:8080/demo" id="herzblatt0_img" alt="" width="300" height="200"></img>
+			</a>
+			<div class="desc" id="herzblatt0_modellname"></div>
+			<div>
+				Verbrauch: <a id="verbrauch1_wert"></a>
+			</div>
+			<div class="w3-light-grey w3-round-xlarge">
+				<div class="w3-container w3-blue w3-round-xlarge" id="verbrauch1">
+				</div>
+			</div>
+			<div>
+				Leistung: <a id="leistung1_wert"></a>
+			</div>
+			<div class="w3-light-grey w3-round-xlarge">
+				<div class="w3-container w3-blue w3-round-xlarge" id="leistung1">
+				</div>
+			</div>
+
+
+			<!-- 
+hier schaust weiter -->
+		</div>
+		<div class="gallery" id="gallery0">
+			<a target="_blank" href="http://localhost:8080/demo" id="gallery1_id"> <img src="http://localhost:8080/demo" id="herzblatt1_img" width="300" height="200"></img>
+			</a>
+			<div class="desc" id="herzblatt1_modellname"></div>
+			<div>
+				Verbrauch: <a id="verbrauch2_wert"></a>
+			</div>
+			<div class="w3-light-grey w3-round-xlarge">
+				<div class="w3-container w3-blue w3-round-xlarge" id="verbrauch2">
+				</div>
+			</div>
+			<div>
+				Leistung: <a id="leistung2_wert"></a>
+			</div>
+			<div class="w3-light-grey w3-round-xlarge">
+				<div class="w3-container w3-blue w3-round-xlarge" id="leistung2">
+				</div>
+			</div>
+		</div>
+
+
+	</div>
+
+
+
+
+	<div class="wrap" id="wrap" style="display: -webkit-box;">
+		<!-- start jtinder container -->
+		<div id="tinderslide" style="visibility: hidden;">
+			<ul>
+				<li class="pane1" id="pane1" style="display: none; transform: translate(1060px, 1019px) rotate(1.0472rad) skewX(0rad) scale(1, 1);">
+					<div class="img">
+						<p>
+							<img class="img" id="pane1_img" src="./Daimler Yusuf Coban_files/iris(5)" width="100%" style="max-width: 1000px;"></img>
+						</p>
+						<span class="none" id="pane1_span" style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); float: none; padding: 3px; position: absolute; top: 52%; left: 5px; font-size: 70%; opacity: 0.5;">Kraftsoff : SUPERPLUSkomb. Verbrauch in L/100km : 6.7Leistung in PS : 244.73160000000001</span>
+					</div>
+					<div id="pane1mobile" style="margin-bottom: 60%; display: none;">SPACE</div>
+					<div id="pane1_modellname" style="background: lightsteelblue;">E 300 Coupé</div>
+					<div id="pane1_infos"></div>
+					<div class="like" style="opacity: 1;"></div>
+					<div class="dislike" style="opacity: 0;"></div>
+				</li>
+				<li class="pane2" id="pane2" style="display: none; transform: translate(-1060px, 1116px) rotate(-1.0472rad) skewX(0rad) scale(1, 1);">
+					<div class="img">
+						<p>
+							<img class="img" id="pane2_img" src="./Daimler Yusuf Coban_files/iris(6)" width="100%" style="max-width: 1000px;"></img>
+						</p>
+						<span class="none" id="pane2_span" style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); float: none; padding: 3px; position: absolute; top: 52%; left: 5px; font-size: 70%; opacity: 0.5;">Kraftsoff : SUPERPLUSkomb. Verbrauch in L/100km : 11.9Leistung in PS : 629.50406</span>
+					</div>
+					<div id="pane2mobile" style="margin-bottom: 60%; display: none;">SPACE</div>
+					<div id="pane2_modellname" style="background: lightsteelblue;">Mercedes-AMG SL 65 Roadster</div>
+					<div id="pane2_infos"></div>
+					<div class="like" style="opacity: 1;"></div>
+					<div class="dislike" style="opacity: 0;"></div>
+				</li>
+				<li class="pane3" id="pane3" style="display: none; transform: translate(1060px, 1060px) rotate(1.0472rad) skewX(0rad) scale(1, 1);">
+					<div class="img">
+						<p>
+							<img class="img" id="pane3_img" src="./Daimler Yusuf Coban_files/iris(7)" width="100%" style="max-width: 1000px;"></img>
+						</p>
+						<span class="none" id="pane3_span" style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); float: none; padding: 3px; position: absolute; top: 52%; left: 5px; font-size: 70%; opacity: 0.5;">Kraftsoff : SUPERPLUSkomb. Verbrauch in L/100km : 12.0Leistung in PS : 629.50406</span>
+					</div>
+					<div id="pane3mobile" style="margin-bottom: 60%; display: none;">SPACE</div>
+					<div id="pane3_modellname" style="background: lightsteelblue;">Mercedes-AMG S 65 Cabrio</div>
+					<div id="pane3_infos"></div>
+					<div class="like" style="opacity: 0;"></div>
+					<div class="dislike" style="opacity: 1;"></div>
+				</li>
+				<li class="pane4" id="pane4" style="display: none; transform: translate(-1060px, 1190px) rotate(-1.0472rad) skewX(0rad) scale(1, 1);">
+					<div class="img">
+						<p>
+							<img class="img" id="pane4_img" src="./Daimler Yusuf Coban_files/iris(8)" width="100%" style="max-width: 1000px;"></img>
+						</p>
+						<span class="none" id="pane4_span" style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); float: none; padding: 3px; position: absolute; top: 52%; left: 5px; font-size: 70%; opacity: 0.5;">Kraftsoff : SUPERPLUSkomb. Verbrauch in L/100km : 7.8Leistung in PS : 367.0974</span>
+					</div>
+					<div id="pane4mobile" style="margin-bottom: 60%; display: none;">SPACE</div>
+					<div id="pane4_modellname" style="background: lightsteelblue;">Mercedes-AMG SLC 43 Roadster</div>
+					<div id="pane4_infos"></div>
+					<div class="like" style="opacity: 0.2;"></div>
+					<div class="dislike" style="opacity: 0;"></div>
+				</li>
+				<li class="pane5" id="pane5" style="display: none; transform: translate(1060px, 1077px) rotate(1.0472rad) skewX(0rad) scale(1, 1);">
+					<div class="img">
+						<p>
+							<img class="img" id="pane5_img" src="./Daimler Yusuf Coban_files/iris(9)" width="100%" style="max-width: 1000px;"></img>
+						</p>
+						<span class="none" id="pane5_span" style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); float: none; padding: 3px; position: absolute; top: 52%; left: 5px; font-size: 70%; opacity: 0.5;">Kraftsoff : SUPERPLUSkomb. Verbrauch in L/100km : 8.8Leistung in PS : 509.8575</span>
+					</div>
+					<div id="pane5mobile" style="margin-bottom: 60%; display: none;">SPACE</div>
+					<div id="pane5_modellname" style="background: lightsteelblue;">Mercedes-AMG C 63 S Coupé</div>
+					<div id="pane5_infos"></div>
+					<div class="like" style="opacity: 0;"></div>
+					<div class="dislike" style="opacity: 0.33;"></div>
+				</li>
+
+
+
+			</ul>
+
+		</div>
+	</div>
+
+
+	<!-- end padding container -->
+
+	<!-- jTinder trigger by buttons  -->
+	<div class="actions" id="action" style="display: none;">
+		<a href="http://localhost:8080/demo#" class="dislike"><i></i></a> <a href="http://localhost:8080/demo#" class="like"><i></i></a>
+	</div>
+
+	<!-- jTinder status text  -->
+	<div id="status" style="display: none; background-color: red;">Dislike Mercedes-AMG SL 65 Roadster</div>
+	<!-- -->
+
+
+
+	<!-- jQuery lib -->
+	<script type="text/javascript" src="./Daimler Yusuf Coban_files/jquery.min.js.Download"></script>
+	<!-- transform2d lib -->
+	<script type="text/javascript" src="./Daimler Yusuf Coban_files/jquery.transform2d.js.Download"></script>
+	<!-- jTinder lib -->
+	<script type="text/javascript" src="./Daimler Yusuf Coban_files/jquery.jTinder.js.Download"></script>
+	<!-- jTinder initialization script -->
+	<script type="text/javascript" src="./Daimler Yusuf Coban_files/main.js.Download"></script>
+	<script type="text/javascript" src="./Daimler Yusuf Coban_files/check.js.Download"></script>
+
+
+
+
+
+
+
+	<!-- /.container -->
+
+	<!-- jQuery Version 1.11.1 -->
+	<!-- <script src="js/jquery.js"></script> -->
+
+	<!-- Bootstrap Core JavaScript -->
+	<script src="./Daimler Yusuf Coban_files/bootstrap.min.js.Download"></script>
+
+
+
+
+
+
+</body></html>

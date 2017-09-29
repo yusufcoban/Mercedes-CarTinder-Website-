@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Daimler Yusuf Coban</title>
+<meta charset="utf-8"></meta>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
+<meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+<meta name="description" content=""></meta>
+<meta name="author" content=""></meta>
+
+
+<!-- CSS -->
+<link href="css/bootstrap.min.css" rel="stylesheet"></link>
+<link rel="stylesheet" type="text/css" href="css/jTinder.css"></link>
+<link rel="stylesheet" type="text/css" href="css/herzblatt.css"></link>
+<link rel="stylesheet" href="css/w3.css"></link>
+<link rel="icon" href="/img/logo.png"></link>
+<link rel="icon" href="/img/logo.png" sizes="32x32"></link>
+<link rel="icon" href="/img/logo.png" sizes="192x192"></link>
+<link rel="apple-touch-icon-precomposed" href="/img/logo.png"></link>
+
+
+
+
+<!-- Custom CSS -->
+<style>
+body {
+	padding-top: 70px;
+	/* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+</style>
+
+
+
+</head>
+
+<body>
+	<!-- Navigation -->
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+					data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span> <span
+						class="icon-bar"></span> <span class="icon-bar"></span> <span
+						class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">Daimler</a>
+			</div>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse navbar-right"
+				id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="/demo">Home</a></li>
+					<li><a href="statistik.html">Statistik</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</div>
+			<!-- /.navbar-collapse -->
+		</div>
+		<!-- /.container -->
+	</nav>
+
+
+
+	<!-- Page Content -->
+	<div class="container-fluid">
+
+
+		<div class="col-lg-12 text-center">
+			<!-- Trigger the modal with a button -->
+			<div style="padding-bottom: 3%; padding-top: 1%;">
+				<button type="button" class="btn btn-info btn-lg"
+					data-toggle="modal" data-target="#myModal" id="filter"
+					style="border-color: white; color: #fff; background-color: #222222;margin-right: 4%;margin-bottom: 1%;">
+					<span>&#9881;</span>
+				</button>
+				<a style="font-size: xx-large;"> CarTinderApp</a>
+			</div>
+		</div>
+
+		<!-- /.row -->
+
+	</div>
+
+	<!-- Circle Loader with Server Status Checker -->
+	<div class="serverstatus" id="serverstatus"></div>
+	<div class="loader" id="loader"></div>
+	<div id="loader2"></div>
+
+	<!-- demo -->
+	<div id="demo" class="mainpart"></div>
+
+
+	<!-- FILTERN -->
+	<div class="container">
+
+		<!-- Modal -->
+		<form id="filter1" method="post" action="/customsearch">
+			<div class="modal fade" id="myModal" role="dialog">
+				<div class="modal-dialog">
+
+					<!-- Modal content-->
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal">&times;</button>
+							<h4 class="modal-title">Herzfilter</h4>
+						</div>
+						<div class="modal-body">
+							<form>
+								<fieldset class="radiogroup">
+									<legend>Wähle deine Lieblingsfahrzeugstypen</legend>
+									<ul class="radio">
+										<li><input type="checkbox" name="typ" id="crust01"
+											value="Cabriolet"  /><label for="crust01">Cabrio
+												/ Roadster</label></li>
+										<li><input type="checkbox" name="typ" id="crust02"
+											value="Coupé"  /><label for="crust02">Coupé</label></li>
+										<li><input type="checkbox" name="typ" id="crust03"
+											value="SUV"  /><label for="crust03">SUV
+												/ Gelände</label></li>
+										<li><input type="checkbox" name="typ" id="crust04"
+											value="Limousine"  /><label for="crust04">Limousine</label></li>
+									</ul>
+								</fieldset>
+
+
+
+
+								<fieldset class="radiogroup">
+									<legend>Segmentauswahl</legend>
+									<ul class="radio">
+										<li><input type="checkbox" name="segment" id="crust11"
+											value="Mid-Size"  /><label for="crust11">MidSize</label></li>
+										<li><input type="checkbox" name="segment" id="crust12"
+											value="Large"  /><label for="crust12">Large</label></li>
+										<li><input type="checkbox" name="segment" id="crust13"
+											value="Full-Size"  /><label for="crust13">FullSize</label></li>
+										<li><input type="checkbox" name="segment" id="crust14"
+											value="Compact"  /><label for="crust14">Kompaktklasse</label></li>
+									</ul>
+								</fieldset>
+
+
+
+								<fieldset class="radiogroup">
+									<legend>Wertlegung</legend>
+									<ul class="radio">
+										<li><input type="checkbox" name="wert" id="crust21"
+											value="effizient"  /><label for="crust21">effizient</label></li>
+
+
+										<li><input type="checkbox" name="wert" id="crust22"
+											value="eleganz"  /><label for="crust22">gehobene
+												eleganz</label></li>
+
+
+										<li><input type="checkbox" name="wert" id="crust23"
+											value="extravaganz"  /><label for="crust23">extravaganz</label></li>
+
+
+										<li><input type="checkbox" name="wert" id="crust24"
+											value="gelaende"  /><label for="crust24">gelaende</label></li>
+
+
+										<li><input type="checkbox" name="wert" id="crust242"
+											value="geraeumig"  /><label for="crust242">geraeumig</label></li>
+
+
+										<li><input type="checkbox" name="wert" id="crust25"
+											value="kompakt"  /><label for="crust25">kompakt</label></li>
+
+
+										<li><input type="checkbox" name="wert" id="crust26"
+											value="luxus"  /><label for="crust26">luxus</label></li>
+
+
+										<li><input type="checkbox" name="wert" id="crust27"
+											value="offenFahren"  /><label for="crust27">offenFahren</label></li>
+
+
+
+										<li><input type="checkbox" name="wert" id="crust28"
+											value="rundumSicht"  /><label for="crust28">rundumSicht</label></li>
+
+
+										<li><input type="checkbox" name="wert" id="crust29"
+											value="sicherheit"  /><label for="crust29">sicherheit</label></li>
+
+
+										<li><input type="checkbox" name="wert" id="crust210"
+											value="sportlich"  /><label for="crust210">sportlich</label></li>
+
+
+										<li><input type="checkbox" name="wert" id="crust211"
+											value="sportlichesDesign"  /><label
+											for="crust211">sportlichesDesign</label></li>
+
+
+										<li><input type="checkbox" name="wert" id="crust212"
+											value="stauraum"  /><label for="crust212">stauraum</label></li>
+
+									</ul>
+								</fieldset>
+
+
+							</form>
+						</div>
+						<div class="modal-footer">
+							<input type="button" data-dismiss="modal" value="Close"></input>
+							<input type="button" onClick="testResults(this.form)"
+								value="Submit" id="SubmitButton" />
+						</div>
+
+					</div>
+
+				</div>
+			</div>
+		</form>
+
+	</div>
+
+
+
+
+	<!-- Herzblatt Anzeige-->
+	<div style="display: none" id="herzblatt_ul"></div>
+	<div class="mainpart" style="display: none" id="mybox">
+		<div class="gallery" id="gallery1">
+			<a target="_blank" href="" id="gallery0_id"> <img src=""
+				id="herzblatt0_img" alt="" width="300" height="200"></img>
+			</a>
+			<div class="desc" id="herzblatt0_modellname"></div>
+			<div>
+				Verbrauch: <a id="verbrauch1_wert"></a>
+			</div>
+			<div class="w3-light-grey w3-round-xlarge">
+				<div class="w3-container w3-blue w3-round-xlarge" id="verbrauch1">
+				</div>
+			</div>
+			<div>
+				Leistung: <a id="leistung1_wert"></a>
+			</div>
+			<div class="w3-light-grey w3-round-xlarge">
+				<div class="w3-container w3-blue w3-round-xlarge" id="leistung1">
+				</div>
+			</div>
+
+
+			<!-- 
+hier schaust weiter -->
+		</div>
+		<div class="gallery" id="gallery0">
+			<a target="_blank" href="" id="gallery1_id"> <img src=""
+				id="herzblatt1_img" width="300" height="200"></img>
+			</a>
+			<div class="desc" id="herzblatt1_modellname"></div>
+			<div>
+				Verbrauch: <a id="verbrauch2_wert"></a>
+			</div>
+			<div class="w3-light-grey w3-round-xlarge">
+				<div class="w3-container w3-blue w3-round-xlarge" id="verbrauch2">
+				</div>
+			</div>
+			<div>
+				Leistung: <a id="leistung2_wert"></a>
+			</div>
+			<div class="w3-light-grey w3-round-xlarge">
+				<div class="w3-container w3-blue w3-round-xlarge" id="leistung2">
+				</div>
+			</div>
+		</div>
+
+
+	</div>
+
+
+
+
+	<div class="wrap" id="wrap">
+		<!-- start jtinder container -->
+		<div id="tinderslide">
+			<ul>
+				<li class="pane1" id="pane1">
+					<div class="img">
+						<p>
+							<img class="img" id="pane1_img" src="" width="100%"></img>
+						</p>
+						<span class="none" id="pane1_span"
+							style="color: #FFFFFF; background-color: #000000; float: left; padding: 3px; position: absolute; top: 150px; left: 5px;">
+						</span>
+					</div>
+					<div id="pane1mobile" style="margin-bottom: 60%; display: none;">SPACE</div>
+					<div id="pane1_modellname">Modelname</div>
+					<div id="pane1_infos"></div>
+					<div class="like"></div>
+					<div class="dislike"></div>
+				</li>
+				<li class="pane2" id="pane2">
+					<div class="img">
+						<p>
+							<img class="img" id="pane2_img" src="" width="100%"></img>
+						</p>
+						<span class="none" id="pane2_span"
+							style="color: #FFFFFF; background-color: #000000; float: left; padding: 3px; position: absolute; top: 150px; left: 5px;">
+						</span>
+					</div>
+					<div id="pane2mobile" style="margin-bottom: 60%; display: none;">SPACE</div>
+					<div id="pane2_modellname">Modelname</div>
+					<div id="pane2_infos"></div>
+					<div class="like"></div>
+					<div class="dislike"></div>
+				</li>
+				<li class="pane3" id="pane3">
+					<div class="img">
+						<p>
+							<img class="img" id="pane3_img" src="" width="100%"></img>
+						</p>
+						<span class="none" id="pane3_span"
+							style="color: #FFFFFF; background-color: #000000; float: left; padding: 3px; position: absolute; top: 150px; left: 5px;">
+						</span>
+					</div>
+					<div id="pane3mobile" style="margin-bottom: 60%; display: none;">SPACE</div>
+					<div id="pane3_modellname">Modelname</div>
+					<div id="pane3_infos"></div>
+					<div class="like"></div>
+					<div class="dislike"></div>
+				</li>
+				<li class="pane4" id="pane4">
+					<div class="img">
+						<p>
+							<img class="img" id="pane4_img" src="" width="100%"></img>
+						</p>
+						<span class="none" id="pane4_span"
+							style="color: #FFFFFF; background-color: #000000; float: left; padding: 3px; position: absolute; top: 150px; left: 5px;">
+						</span>
+					</div>
+					<div id="pane4mobile" style="margin-bottom: 60%; display: none;">SPACE</div>
+					<div id="pane4_modellname">Modelname</div>
+					<div id="pane4_infos"></div>
+					<div class="like"></div>
+					<div class="dislike"></div>
+				</li>
+				<li class="pane5" id="pane5">
+					<div class="img">
+						<p>
+							<img class="img" id="pane5_img" src="" width="100%"></img>
+						</p>
+						<span class="none" id="pane5_span"
+							style="color: #FFFFFF; background-color: #000000; float: left; padding: 3px; position: absolute; top: 150px; left: 5px;">
+						</span>
+					</div>
+					<div id="pane5mobile" style="margin-bottom: 60%; display: none;">SPACE</div>
+					<div id="pane5_modellname">Modelname</div>
+					<div id="pane5_infos"></div>
+					<div class="like"></div>
+					<div class="dislike"></div>
+				</li>
+
+
+
+			</ul>
+
+		</div>
+	</div>
+
+
+	<!-- end padding container -->
+
+	<!-- jTinder trigger by buttons  -->
+	<div class="actions" id="action" style="display: -webkit-box;padding-top: 5%;">
+		<a href="#" class="dislike"><i></i></a> <a href="#" class="like"><i></i></a>
+	</div>
+
+	<!-- jTinder status text  --> 
+	<div id="status"></div>
+
+	<!-- jQuery lib -->
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<!-- transform2d lib -->
+	<script type="text/javascript" src="js/jquery.transform2d.js"></script>
+	<!-- jTinder lib -->
+	<script type="text/javascript" src="js/jquery.jTinder.js"></script>
+	<!-- jTinder initialization script -->
+	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript" src="js/check.js"></script>
+	<script type="text/javascript" src="js/spin.js"></script>
+
+
+
+
+
+
+
+	<!-- /.container -->
+
+	<!-- jQuery Version 1.11.1 -->
+	<!-- <script src="js/jquery.js"></script> -->
+
+	<!-- Bootstrap Core JavaScript -->
+	<script src="js/bootstrap.min.js"></script>
+
+
+	<script>
+		function myFunction() {
+			document.getElementById("filter1").submit();
+		}
+
+		
+	</script>
+
+
+</body>
+
+</html>

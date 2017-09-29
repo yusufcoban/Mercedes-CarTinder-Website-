@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+html, body {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	position: relative;
+	
+	/* ZENTRUM */
+	margin: 4%;
+	margin-top:auto;
+}
+
+
